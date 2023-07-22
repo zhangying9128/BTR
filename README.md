@@ -86,8 +86,8 @@ bash commands/finetune_BTR.sh
 ```
 
 
-## Inference
-Please use the following command to rerank with the BTR.
+## Reranking candidates with the BTR
+Please use the following command to rerank candidates with the BTR.
 This command will help to generate and save the corresponding score (formula 9 in our paper) for each candidate.
 ```sh
 bash commands/rerank.sh
