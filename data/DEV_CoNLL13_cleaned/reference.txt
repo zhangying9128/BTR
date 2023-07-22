@@ -1,0 +1,1381 @@
+{"gec_outputs": [["In the modern digital world , electronic products are widely used in daily life such as smart phones , computers and etc ."]]}
+{"gec_outputs": [["In , electronic devices , such as computers , are also inevitable to increase the productivity of the corporation ."]]}
+{"gec_outputs": [["The convenience and high efficiency of using electronic products has been noticed by people worldwide ."]]}
+{"gec_outputs": [["Some people have started to wonder if electronic products can be further operated to more advanced utilization and outperform human beings ."]]}
+{"gec_outputs": [["Surveillance technology , such as RFID ( radio - frequency identification ) , is one example that implemented ."]]}
+{"gec_outputs": [["In this essay , I will discuss surveillance technology , such as RFID ( radio - frequency identification ) , should be used or not used to track people ."]]}
+{"gec_outputs": [["Personally , I agree to a large extent that surveillance technology , such as RFID , should be used to track people ."]]}
+{"gec_outputs": [["Surveillance technology , such as RFID , can be operated twenty - four hours without operators to track every detail about human activities ."]]}
+{"gec_outputs": [["For instance , in the military , which are of high importance , surveillance technology is essential as it is a way to provide undeniable evidence if anything is at fault ."]]}
+{"gec_outputs": [["In supermarkets , where it is difficult to catch thieves , surveillance technology , which makes records that can be replayed or detects theives on the spot , is beneficial ."]]}
+{"gec_outputs": [["The high accuracy of surveillance technology eliminates the number of disagreements among people ."]]}
+{"gec_outputs": [["If people are aware of the existence of surveillance , the possibility they would follow rules and orders is high ."]]}
+{"gec_outputs": [["It is useful as it reduces the chances of occurring ."]]}
+{"gec_outputs": [["Therefore , surveillance technology makes our society more law abiding ."]]}
+{"gec_outputs": [["Risks can be analyzed if there is a record of what happened in the past ."]]}
+{"gec_outputs": [["In the late nineteenth century , a severe air crash occurred at Miami International airport ."]]}
+{"gec_outputs": [["A fire started in the air cargo to a Valujet plane after the plane had taken off ."]]}
+{"gec_outputs": [["The electric systems short circuited with the result that the airplane was out of control and nosedived to the ground at extremely high speed ."]]}
+{"gec_outputs": [["All passengers and pilots died ."]]}
+{"gec_outputs": [["After finding and analyzing the black box of the plane after the incident , police investigators found the reasons that caused this serious incident ."]]}
+{"gec_outputs": [["Surveillance technology could be used to detect very risky events and prevent them from happening in the future , hence saving more lives ."]]}
+{"gec_outputs": [["In addition , if surveillance technology becomes even better developed , it could be used to detect problems before real accidents occurs ."]]}
+{"gec_outputs": [["However , the dark side of using surveillance technology is that it results in invasion of privacy ."]]}
+{"gec_outputs": [["People under supervision are under high pressure to perform naturally ."]]}
+{"gec_outputs": [["People are less likely to enjoy life under surveillance ."]]}
+{"gec_outputs": [["Therefore , surveillance technology provides convenience to society but causes more inconvenience to individuals ."]]}
+{"gec_outputs": [["Therefore , surveillance technology can be used but the use of surveillance should be modified in such a way that individuals are less affected in normal life ."]]}
+{"gec_outputs": [["In general , surveillance technology benefits society and should be used with the consideration of individuals ' lives ."]]}
+{"gec_outputs": [["I do not agree with this statement that surveillance technology should not be used to track people ."]]}
+{"gec_outputs": [["Technology is always improving to catch up with the fast pace of this world and most surveillance technology is used by the police or military to track people down ."]]}
+{"gec_outputs": [["Although surveillance technology is an issue in safeguarding human privacy , it has also brought us lots of benefits and security ."]]}
+{"gec_outputs": [["There are two points supporting this argument ."]]}
+{"gec_outputs": [["Firstly , security systems have improved in many areas such as on the school campus or at the workplace ."]]}
+{"gec_outputs": [["Secondly , it makes it possible for parents to track their children and also their elderly parents ."]]}
+{"gec_outputs": [["Therefore , this technology should be used to track people ."]]}
+{"gec_outputs": [["Much of this surveillance is being implemented in government sectors , or military areas to enhance their security ."]]}
+{"gec_outputs": [["It can also be found in schools and workplaces ."]]}
+{"gec_outputs": [["It is useful to the government and people in the law sector ."]]}
+{"gec_outputs": [["They can maintain social control and recognize threats ."]]}
+{"gec_outputs": [["Video surveillance gives people a sense of security should anything happen ."]]}
+{"gec_outputs": [["In addition , it can provide all day surveillance around the school or office with little manpower needed ."]]}
+{"gec_outputs": [["For example , intruders can be detected if there are any in schools or offices ."]]}
+{"gec_outputs": [["This can protect the students from being in a dangerous situation , particularly small children who are studying in nursery ."]]}
+{"gec_outputs": [["In addition , it can also prevent theft ."]]}
+{"gec_outputs": [["This technology can also be a helpful tool to assist law enforcers , such as the police , to collect evidence of crimes after they occur ."]]}
+{"gec_outputs": [["This can increase the efficiency of solving crimes and thus decreasing the number of criminal acts or people ."]]}
+{"gec_outputs": [["With the help of video surveillance , the number of people committing crimes could decrease ."]]}
+{"gec_outputs": [["Although , video surveillance may be a help to most sectors , it can also be misused by many people ."]]}
+{"gec_outputs": [["Some may use it to peek or record something illegal ."]]}
+{"gec_outputs": [["For example , it could be installed in personal lockers to record other 's moves and actions ."]]}
+{"gec_outputs": [["This technology could also be seen as invading human privacy ."]]}
+{"gec_outputs": [["Surveillance technology could cause everyone to feel paranoid and as if our actions are being watched ."]]}
+{"gec_outputs": [["This could lead to psychological implications and thus cause many tremendous social effects that may be harmful to our society ."]]}
+{"gec_outputs": [["If everyone is being watched unknowingly , it seems that our freedom of doing things is compromised ."]]}
+{"gec_outputs": [["Technology can be a very useful tool if it is used in the correct manner ."]]}
+{"gec_outputs": [["It may help to prevent potential crimes from happening but also help people commit crimes ."]]}
+{"gec_outputs": [["The knowledge of installing surveillance should be taught to everyone so that crimes could be eliminated instead of increase ."]]}
+{"gec_outputs": [["However , the more people use it on us , the more power they will have over us ."]]}
+{"gec_outputs": [["We should respect that everyone has human rights and without permission , this technology should not be placed or implanted in anyone ."]]}
+{"gec_outputs": [["We do not want to be sued for infringing privacy ; therefore , before implanting any RFID , we should ask for consent ."]]}
+{"gec_outputs": [["Surveillance technology is getting more and more widely used with the development of modern technology in terms of various scientific breakthroughs ."]]}
+{"gec_outputs": [["And after all this scientific research result is applied to daily life . Products such as RFID tracking systems have become real ."]]}
+{"gec_outputs": [["RFID is not only used to track products for logistical and storage purposes , it is also used to track people through human implants ."]]}
+{"gec_outputs": [["It is unacceptable for some people in society . However , I think this application is necessary and provides society a lot of benefits ."]]}
+{"gec_outputs": [["Surveillance technology such as RFID has been used to track people and may help to reduce the number of people who get lost ."]]}
+{"gec_outputs": [["For example , there are always reports in the newspaper about some elderly people who get lost at certain places and their families are looking for them ."]]}
+{"gec_outputs": [["The family members must be worrying a lot about the lost elderly person , and with the help of police officers , maybe they can find the elderly person , but it will take a long time , and a lot of energy to find someone in a country that has a population of about five million without knowing the exact location of that person ."]]}
+{"gec_outputs": [["However , if the elderly person has been implanted with a RFID device , then it will be much easier for the family to find him or her with the special serial number issued to each device ."]]}
+{"gec_outputs": [["They can track the location of the device with the information provided by the RFID signals and find the location of the lost elderly person in a shorter period of time ."]]}
+{"gec_outputs": [["Surveillance technology such as RFID is not only useful to track lost people but is also useful to prevent the trading of children , which happens in many developing countries ."]]}
+{"gec_outputs": [["It may be known that young children may be stolen by some agency that trades the children ."]]}
+{"gec_outputs": [["For example , they may wait in a public area and wait for parents who do not pay attention to their child , so that this kind of agency may bring the child to a mountain area and sell him or her for a good price ."]]}
+{"gec_outputs": [["Since this happens more often in countries which are much larger than Singapore , it is even harder or maybe it is impossible for the parents to find the child without knowing where the child has been brought to ."]]}
+{"gec_outputs": [["provinces have gone along"]]}
+{"gec_outputs": [["However , if the child has been implanted with a tracking device , more information will be provided along the way when the family is trying to find him or her back ."]]}
+{"gec_outputs": [["Not only the details of location will be provided , but also details that may lead to the children trading agency and help to prevent more of this kind of tragedy from happening to any family ."]]}
+{"gec_outputs": [["Surveillance technology will help to prevent families from losing their members , especially the elderly and the children who need to be paid more attention to ."]]}
+{"gec_outputs": [["As technology increasingly advances , many of things that were regarded as impossible are becoming possible ."]]}
+{"gec_outputs": [["From the Internet and email to the most powerful surveillance technology , every step is an advancement for not only society but also the world 's achievements ."]]}
+{"gec_outputs": [["People 's lives are going from increasingly convenient to almost luxurious , thanks to the implementation of increasingly advanced technology available for man 's life ."]]}
+{"gec_outputs": [["Although such rapidly advancing technology though can be extremely useful to our daily life ; it can also cause invisible or massive threats to our peaceful life that can be beyond our imagination and estimation ."]]}
+{"gec_outputs": [["Today , surveillance technology has become almost ubiquitous wherever we go ."]]}
+{"gec_outputs": [["Take Singapore for example , surveillance is installed everywhere from highly secured places such as Government buildings to working places , from condominiums to housing development board blocks , and even school canteens and toilets !"]]}
+{"gec_outputs": [["Even applications in our Iphones or other smartphones , or our I - pads can easily reveal our location ."]]}
+{"gec_outputs": [["Every move is being closely surveilled and followed once we step out of our homes ."]]}
+{"gec_outputs": [["Now , surveillance technology such as RFID has even been invented to track people ."]]}
+{"gec_outputs": [["I agree to a great extent that RFID technology should not be easily available to the public or taken for granted ."]]}
+{"gec_outputs": [["On the other hand , I will also discuss how RFID can be utilized for good purposes ."]]}
+{"gec_outputs": [["I agree that RFID technology should not be made available to the public for easy abuse and distorted usage ."]]}
+{"gec_outputs": [["First , our privacy is at threat ."]]}
+{"gec_outputs": [["Though tracking devices such as the applications in our smartphones these days can add fun and entertainment to our fast - paced life , this can be a double - edged sword ."]]}
+{"gec_outputs": [["We reveal our locations , for our friends to catch up with us ; however , we can never know who is watching us out there secretly ."]]}
+{"gec_outputs": [["Hackers have become increasingly vicious , invading our computer systems . Now radio - frequency tracking devices may fall into inappropriate hands for the wrong reasons ."]]}
+{"gec_outputs": [["Every move is easily tracked ."]]}
+{"gec_outputs": [["This is very hazardous ."]]}
+{"gec_outputs": [["No matter how good and how many security systems there are for us , the hackers are also increasingly improving their skills in terms of hacking and breaking the codes of the security systems ."]]}
+{"gec_outputs": [["On the other hand , I think RFID can be useful with appropriate handling and usage ."]]}
+{"gec_outputs": [["For example , it can be a very beneficial and useful device for the police force to track crime suspects and terrorists for their movements , or contributing to more leads for solving a case ."]]}
+{"gec_outputs": [["Additionally , if appropriately used , this device can contribute to our scientific findings and research ."]]}
+{"gec_outputs": [["In this , I mean that we can implant this device into animals or birds , to track their movements and actions relating to our human research that can bring us to a new regime ."]]}
+{"gec_outputs": [["RFID is indeed a great invention ."]]}
+{"gec_outputs": [["It can benefit mankind if appropriately used ."]]}
+{"gec_outputs": [["However , I think such powerful devices should not be made easily available to the public or fall into the hands of ' ill - intentioned ' individuals ."]]}
+{"gec_outputs": [["This will lead to more crimes and threaten our privacy ."]]}
+{"gec_outputs": [["RFID is used in many places for example , transportation , homes and even offices ."]]}
+{"gec_outputs": [["Over the years , it has helped humans to improve accessibility in the form of cards to gain access to certain places ."]]}
+{"gec_outputs": [["Other than using it in these areas , it is also been used as a human implant or as a product ."]]}
+{"gec_outputs": [["These implants and products have also been used as surveillance tools ."]]}
+{"gec_outputs": [["As a surveillance tool , it could also be used in terms of surveys and statistics ."]]}
+{"gec_outputs": [["There are also medical tools that are more of an implant into the human body for basic medical research ."]]}
+{"gec_outputs": [["Moreover , the use of RFID chips in tracking clothes is also very common sight in the service industry becaue of the huge number of clothing to be identified and tracked at any one point ."]]}
+{"gec_outputs": [["As RFID has been used in transportation in the form of ez - link cards , the ability to gain faster and easier access of transportation needs has been seen over the years ."]]}
+{"gec_outputs": [["This form can also be used as a tracking device because the places a person visited for the past few trips were all recorded by the system and the cards ."]]}
+{"gec_outputs": [["This form of tracking is not harmful and disturbing to society as it could be used to fight crimes to maintain law and order ."]]}
+{"gec_outputs": [["As this information is being well - kept by the operators because they encrypt the data and use it in its proper form ."]]}
+{"gec_outputs": [["This also prevents normal hackers from getting this information that was recorded for proper usage for unlawful usage ."]]}
+{"gec_outputs": [["Moreover , the use of the RFID for medical research has also been widely used in many countries ."]]}
+{"gec_outputs": [["These chips were also implanted under the human skin where they also help to store the basic information of the patient ."]]}
+{"gec_outputs": [["This form of RFID does not harm but it helps in the ability to identify any person who is not carrying any identification in the emergency room ."]]}
+{"gec_outputs": [["may be save the person 's life If their medical history is all recorded in the chip ."]]}
+{"gec_outputs": [["Additionally , the service industry is also using it to track its clothes that were been used by their employees ."]]}
+{"gec_outputs": [["This is a scene seen in Resort World Sentosa ."]]}
+{"gec_outputs": [["The clothes were all implanted with a RFID tracking chip for easy identification and recording of the the clothes ' whereabouts ."]]}
+{"gec_outputs": [["As their clothes were mass collected and washed by an external company , the ability to have a tracking system to know the whereabouts of their clothing helps in terms of logistical hassle ."]]}
+{"gec_outputs": [["Therefore , the usage of RFID chips is more useful to help the human in the required basic needs or tasks ."]]}
+{"gec_outputs": [["This form of tracking is also not harmful to any person because much of this information is all used for helping a person then disrupt the lives of human race ."]]}
+{"gec_outputs": [["Therefore , I agree that the use of the RFID technology in tracking any person or product would help the human race which also has been mentioned above ."]]}
+{"gec_outputs": [["I think that surveillance technology such as RFID ( radio - frequency identification ) can be used to track people ."]]}
+{"gec_outputs": [["Nowadays , with the rapid development of science and technology , emerging technologies always contribute to better living conditions for human beings ."]]}
+{"gec_outputs": [["For example , the Internet has bridged the distance among people globally ."]]}
+{"gec_outputs": [["Although we have to admit some bad effects which are brought by the new technology , still the advantages of the new technologies can not be simply discarded ."]]}
+{"gec_outputs": [["Back to the surveillance technology , people may say it threatens their privacy or personal life ."]]}
+{"gec_outputs": [["Compared to this disadvantage , we should think about the advantages it offers human beings ."]]}
+{"gec_outputs": [["It can provide a safe , convenient environment ."]]}
+{"gec_outputs": [["Tracking people using surveillance technology can offer better security ."]]}
+{"gec_outputs": [["For example , the old people , if they are alone at home , one day , they want to go out for a walk ."]]}
+{"gec_outputs": [["In case , they have some accident like heart attack , the track of them will show there is something wrong ."]]}
+{"gec_outputs": [["The ambulance can get there as soon as possible to save them ."]]}
+{"gec_outputs": [["Parents do not need to worry about where their kids will go after the school ."]]}
+{"gec_outputs": [["By investigating the record of the surveillance technology , they can easily figure out where their kids are now and know roughly what they are doing ."]]}
+{"gec_outputs": [["In addition , due to the tracking of people , the police can better know a person 's daily schedule ."]]}
+{"gec_outputs": [["It gives the police better control of the criminal ."]]}
+{"gec_outputs": [["All these uses of surveillance technology make the environment safer ."]]}
+{"gec_outputs": [["Tracking people using surveillance technology can make people 's life more convenient ."]]}
+{"gec_outputs": [["Nowadays , people need to carry a lot of ID cards around to show that they are the one the same as the one on the ID cards ."]]}
+{"gec_outputs": [["If we have this technology , it will automatically confirm people 's identity and save the effort of carrying a lot of cards ."]]}
+{"gec_outputs": [["Once people have their own identity confirmed , they do not even need to bring any money along with them ."]]}
+{"gec_outputs": [["To purchase goods , they just need to deduct money from their account and make a transfer of money to the one who is selling the goods ."]]}
+{"gec_outputs": [["Because of the surveillance technology , a lot of conventional ways or styles of human life could be changed ."]]}
+{"gec_outputs": [["If the technology can be made to adjust to human being 's feelings , it would be more welcomed by those concerned about privacy ."]]}
+{"gec_outputs": [["For example , if the one who carries the identifiable sensor does not want any others to know his or her location , he or she can disable the tracking ."]]}
+{"gec_outputs": [["Then , you may ask , how can the police get the information ?"]]}
+{"gec_outputs": [["I think that the tracking can be saved in some place which is not open to the public ."]]}
+{"gec_outputs": [["If it is needed , the records could be opened for official use ."]]}
+{"gec_outputs": [["As you can see , there are quite a lot of advantages of using surveillance technology to track people ."]]}
+{"gec_outputs": [["In short , it can provide a safe , convenient environment for human beings ."]]}
+{"gec_outputs": [["Moreover , we can try to reduce the bad effects caused by the new technology ."]]}
+{"gec_outputs": [["Thus , I strongly agree that surveillance technology such as RFID ( radio - frequency identification ) can be used to track people ."]]}
+{"gec_outputs": [["I do not agree with the above statement ."]]}
+{"gec_outputs": [["In my opinion , surveillance technology such as RFID should be used to track people though there does exist many problems if it is prevalent ."]]}
+{"gec_outputs": [["It can help to regulate people 's behavior , control crime and prevent terrorism , and gather demographic data ."]]}
+{"gec_outputs": [["RFID , despite the fact that it may be considered as privacy infringement , is different from video surveillance ."]]}
+{"gec_outputs": [["Unlike video surveillance , RIFD can only reflect the location and movements of the person with tags ."]]}
+{"gec_outputs": [["Without sending back any images or sound record , RFID is more user - friendly and helps preserve the user 's privacy as much as possible ."]]}
+{"gec_outputs": [["Firstly , RFID is a useful tool to help to regulate human or animal behavior ."]]}
+{"gec_outputs": [["The tags can be used on those who need to be taken care of or beloved ones , such as a child whose parents are always concerned about his whereabouts when the parents are not together with him , or maybe a lovely dog whose owner fears to lose her ."]]}
+{"gec_outputs": [["In the first case , RFID can be used to help parents to surveil their children so that they can make sure if they are at school or playing around at their friends ' home , and this may help parents regulate their children 's behavior ."]]}
+{"gec_outputs": [["Secondly , RFID can be used to control crime and prevent terrorism ."]]}
+{"gec_outputs": [["Everyday crimes happen from time to time , and help to keep low criminal rate can be a combination of ethical , physiological and social problems ."]]}
+{"gec_outputs": [["RFID can be one of the simple ways to help discourage criminal or terorist acts ."]]}
+{"gec_outputs": [["Police can put tags on those that have potential to commit crimes ."]]}
+{"gec_outputs": [["Thus , when a man with a ' terrorism tag ' enters a junction or a plaza full of people , police should notice this and observe the man 's behavior as well as checking his package to prevent him from exploding TNT ."]]}
+{"gec_outputs": [["Apart from preventing crime and terrorism , RFID can also be used as an evidence or alibi to help determine whether the suspect is the criminal or not ."]]}
+{"gec_outputs": [["Moreover , RFID can be used to help collect demographic data ."]]}
+{"gec_outputs": [["If RFID is used on everyone and runs for years , the surveillance centre will have a complete set of statistical data showing the movement of people from city to city , and from town to town , thus showing which city is expanding more than people thought , and which city is becoming less attractive ."]]}
+{"gec_outputs": [["Statisticians can use these data to build up appropriate models to predict the future needs for each city so that local governments know where and when to build more infrastructure , what kind of infrastructure and what other developments should be made ."]]}
+{"gec_outputs": [["Economists can take advantage of these figures to predict the economic trends of the local area as well as for the whole country ."]]}
+{"gec_outputs": [["As for transportation , the roads and traffic authority can easily identify where traffic jams are and advise drivers to change to suggested routes ."]]}
+{"gec_outputs": [["In all , RFID should be applied to facilitate governments to better manage the world that we are living ."]]}
+{"gec_outputs": [["It can help regulate behaviors , prevent crime and gather demographic data for various uses ."]]}
+{"gec_outputs": [["But before the application , governments need to secure the safety of RFID after implantation and make sure there will not be any ID theft ."]]}
+{"gec_outputs": [["More importantly , governments should make sure only the right people can get access to these data and they must guarantee that they will not misuse or abuse the information ."]]}
+{"gec_outputs": [["As technology becomes more advanced nowadays , people are very exposed to the various types in their daily lives ."]]}
+{"gec_outputs": [["It is undeniable that technology has made our lives and work easier and more efficient ."]]}
+{"gec_outputs": [["However , when surveillance technology starts to violate the privacy of people instead of being used in a more beneficial way , it is my opinion that such technology should be rethought ."]]}
+{"gec_outputs": [["In fact , people are getting more exposed in public through the fast development of the virtual world -- the Internet ."]]}
+{"gec_outputs": [["Social networks such as Facebook , Twitter and many others often reveal the true identities and some confidential information of the users without their knowledge ."]]}
+{"gec_outputs": [["This already raises up the problem of privacy leakage ."]]}
+{"gec_outputs": [["The surveillance technology worsens the problem by violating people 's privacy openly which may arouse anger and unhappiness among people ."]]}
+{"gec_outputs": [["This happened in London a few years ago , when the government installed CCTV on several streets in order to better supervise its people and keep order ."]]}
+{"gec_outputs": [["This was supposed to be applauded by the public because it allowed fast searches for people who violated the law and caused harm to others ."]]}
+{"gec_outputs": [["Instead , when the installment of such devices was released in the newspaper , it was heavily criticised by the public ."]]}
+{"gec_outputs": [["People were worried about the loss of privacy ."]]}
+{"gec_outputs": [["The government had to uninstall all the devices in the end ."]]}
+{"gec_outputs": [["From this case , we can clearly conclude that surveillance technology may be helpful in some ways ; however , when it violates the privacy of people , it is unacceptable ."]]}
+{"gec_outputs": [["For many , it is inhumane to use such technology on human beings ."]]}
+{"gec_outputs": [["We often put tags on products and animals . Because we treat them as goods , it is easy for trade when they are all labelled and tagged ."]]}
+{"gec_outputs": [["However , human beings are not animals or any other product . They have their own thoughts and freedom ."]]}
+{"gec_outputs": [["They have full control of their own lives ."]]}
+{"gec_outputs": [["If so , then why do we need human implants to trace activities and lives when they are free to do things that they like ."]]}
+{"gec_outputs": [["It is understandable that once people have human implants , they may start to behave themselves because they can be easily traced ."]]}
+{"gec_outputs": [["However , this way of curbing crimes is so violating that will only cause people to rebel and think of ways to escape the tracking of such devices ."]]}
+{"gec_outputs": [["After all , there will be an endless battle between the technology and human mentality ."]]}
+{"gec_outputs": [["Humanity can be best seen in the case of rearing pets ."]]}
+{"gec_outputs": [["Pets are supposed to be chained when they are out in the streets ."]]}
+{"gec_outputs": [["However , in countries like China , where there is no law to force people to chain their pets , pets are usually left unchained and run freely in the streets ."]]}
+{"gec_outputs": [["It may be dangerous as some pets are rather fierce and aggressive ; however , it is the benevolent nature of human beings that we treat pets as \" human beings \" , our friends , that we do not want to restrict their freedom ."]]}
+{"gec_outputs": [["This phenomenon is accepted by the public , even by those who do not own a pet ."]]}
+{"gec_outputs": [["This shows that even though there is a risk of causing harm to someone , people still prefer to bear the risk and allow their pets to have maximum freedom ."]]}
+{"gec_outputs": [["If even pets are granted freedom , people themselves certainly treat freedom as something essential ."]]}
+{"gec_outputs": [["In conclusion , I think that surveilence technology should not be used to track people ."]]}
+{"gec_outputs": [["It not only restricts their freedom in all aspects , but also causes leakage of personal information ."]]}
+{"gec_outputs": [["This greatly violates the rights of people ."]]}
+{"gec_outputs": [["Technology advancement is extremely fast nowadays ."]]}
+{"gec_outputs": [["Surveillance technology is one of the main concerns of the military and national defense sectors ."]]}
+{"gec_outputs": [["An example of this technology is RFID ( radio - frequency identification ) which has been proposed to track people through various means such as human implants or RFID tags on people ."]]}
+{"gec_outputs": [["However , this proposal has led to fierce argument in the world over its pros and cons ."]]}
+{"gec_outputs": [["I personally stand together with the people who reject the proposal ."]]}
+{"gec_outputs": [["First of all , everyone in the world belongs to themselves who does not belong to anyone from my personal perspective ."]]}
+{"gec_outputs": [["Human rights have been raised up pretty frequently in the world over the past few years ."]]}
+{"gec_outputs": [["Approval of RFID tracking can be seen as a violation of human rights and people will lose their most basic freedom ."]]}
+{"gec_outputs": [["Would it not be similar to criminals in prison but in a bigger confined space ?"]]}
+{"gec_outputs": [["Secondly , the tracking proposal will raise a safety issue ."]]}
+{"gec_outputs": [["The chip identifier technology can be reproduced by anyone ."]]}
+{"gec_outputs": [["It presents a query : can everyone view each other 's information such as name and age ?"]]}
+{"gec_outputs": [["The leakage of this confidential information can be a sensitive issue to people , a violation of freedom and breakdown of safety ."]]}
+{"gec_outputs": [["One of the examples is the storage of bank account numbers in the tracking chips ."]]}
+{"gec_outputs": [["Criminals could identify them easily by getting a small identifier anywhere and everywhere if the tracking proposal is approved ."]]}
+{"gec_outputs": [["He or she could easily access the designated bank account since password cracking is an easy task for most hackers ."]]}
+{"gec_outputs": [["Other than that , the safety issue can be extended to personal safety ."]]}
+{"gec_outputs": [["Everyone knows the Internet and data transmission are very common and accessible at any time and point to examples such as Facebook ."]]}
+{"gec_outputs": [["However , people tend to express their personal feelings and ideas about sensitive issues on the Internet unintentionally ."]]}
+{"gec_outputs": [["This action could actually generate aggressive feelings from others and violent acts could be directed toward the one with the aid of tracking tags or implants ."]]}
+{"gec_outputs": [["The Internet can be a convenient source to find the name and basic information of people if the chip is hacked and tracking will facilitate the finding of designated persons ."]]}
+{"gec_outputs": [["In addition , national defense will be endangered if this tracking proposal is launched ."]]}
+{"gec_outputs": [["The technology is based on the chip implant or tag ."]]}
+{"gec_outputs": [["However , the chip implant can be retrieved easily and reimplanted onto other people and so on the tag ."]]}
+{"gec_outputs": [["Mischievous cases could actually cause chaos on the checkpoint tracking record and a more serious issue if people do it with ill intentions ."]]}
+{"gec_outputs": [["For example , a wanted person can escape out easily from a country and hide in another country with this method ."]]}
+{"gec_outputs": [["This tracking proposal creates a loophole in the net of justice ."]]}
+{"gec_outputs": [["In a nutshell , surveillance technology may provide a lot of convenience if it is used appropriately ."]]}
+{"gec_outputs": [["However , it has flaws which can be counter - used by criminals at the current level ."]]}
+{"gec_outputs": [["I stand against the idea of tracking individuals given the vulnerabilities of the technology at present ."]]}
+{"gec_outputs": [["Nowadays , the improved technology online is able to track different locations for different people ."]]}
+{"gec_outputs": [["For instance , Facebook , the well - known social media platform , has the ability to track someone 's location ."]]}
+{"gec_outputs": [["However , for some , these auto - tracking services break the principle of privacy ."]]}
+{"gec_outputs": [["Some people do not want to be tracked as they feel it is not safe ."]]}
+{"gec_outputs": [["In my opinion , the developed surveillance technology can be used to track people and objects only if the tracked person agrees to receive this service ."]]}
+{"gec_outputs": [["There exist various advantages of using surveillance technology ."]]}
+{"gec_outputs": [["The first example will be to track your personal items and avoid losing them ."]]}
+{"gec_outputs": [["We all know that there is an application on iphone called where is my iphone ."]]}
+{"gec_outputs": [["It basically serves to locate your iphone 's position at any single time . For instance , if someone left his phone in a certain place , he can check his phone 's location by searching through the Internet using another phone that has the same application if you are connected with your friend 's device ."]]}
+{"gec_outputs": [["You are able to find the location of your lost iphone by asking your friends as all the shared devices are able to see the location of each other ."]]}
+{"gec_outputs": [["Another good example of using tracking technology will be to find the way to a place that someone has never been before ."]]}
+{"gec_outputs": [["For example , one person wants to visit his friend 's place in a new city ."]]}
+{"gec_outputs": [["His friend is able to upload his location due to this advanced technology ."]]}
+{"gec_outputs": [["Then , the person is able to use GPS or other auto - tracking devices to find the place even if he has never gone there before ."]]}
+{"gec_outputs": [["The radio - frequency device can be used on old people whose memory is not as good as young people as well ."]]}
+{"gec_outputs": [["For instance , when people get old , they begin to lose their memory and sometimes they may not remember their way home or another place ."]]}
+{"gec_outputs": [["If the old people always bring an auto - tracking device , it is much easier for the younger people to find them and it helps to guard the safety of the old people ."]]}
+{"gec_outputs": [["Although the auto - tracking device is quite powerful , it still has to be used on a voluntary basis ."]]}
+{"gec_outputs": [["Without approval , people should not able to use this technology to track others ."]]}
+{"gec_outputs": [["For example , if the tracking technology is able to track everyone , even strangers , this means your location at anytime is viewable to every single person online ."]]}
+{"gec_outputs": [["This kind of situation will cause crime as thieves may auto - track you and you would not be able to run away from them ."]]}
+{"gec_outputs": [["Therefore , we must agree before the technology is able to track us ."]]}
+{"gec_outputs": [["At the same time , our location should be protected from being seen by strangers ."]]}
+{"gec_outputs": [["All the conditions , like the time of tracking and who can view your location , must be agreed to by the person who is being tracked ."]]}
+{"gec_outputs": [["In conclusion , the advanced technology gives people the convenience to find their items and ensures their safety ."]]}
+{"gec_outputs": [["At the same time , people must be able to protect their privacy without sharing their location with strangers ."]]}
+{"gec_outputs": [["Overall , the benefits of this technology outweighs its problems if people use it wisely ."]]}
+{"gec_outputs": [["The increasing population of a country gives the government more difficulties in registering the members of each individual family and hence other factors exist as an obstacle to development ."]]}
+{"gec_outputs": [["By following the trend of improvement in technology , people can now be easily tracked by using RFID ( radio - frequency identification ) by simply implanting RFID tags in the human body ."]]}
+{"gec_outputs": [["With this advantage , it will be easier for people to locate his friend or his family when they have lost contact or in an emergency and also for police to investigate crimes ."]]}
+{"gec_outputs": [["In any country , there are crimes everyday and it is obvious to see that not all the culprits have been arrested and punished ."]]}
+{"gec_outputs": [["There are kidnappings everywhere and not all of the families can afford the ransom that is required by the kidnappers ."]]}
+{"gec_outputs": [["In that case , they would have no choice but to seek the power of loyal police ."]]}
+{"gec_outputs": [["The detective will start investigating the first criminal scene and brainstorm for all the possibilities ."]]}
+{"gec_outputs": [["Reality kills people in mind ."]]}
+{"gec_outputs": [["It is only 10 % of the time that the police successfully pinpoint the kidnappers ' den and arrest all of them before they start to harm the poor victim ."]]}
+{"gec_outputs": [["In that sense , without a proper way to track human beings , it is way too difficult to save the innocent life ."]]}
+{"gec_outputs": [["Also , not only the kidnappers and the victim need to be tracked down , but also jailbreakers ."]]}
+{"gec_outputs": [["A few years ago , there was a jailbreaker named Mat Selamat , one of terrorists of Osama , who successfully escaped from the monitoring of a couple of cops in Singapore ."]]}
+{"gec_outputs": [["This was a rare case since Singapore is actually an safe country ."]]}
+{"gec_outputs": [["According to the news , the police force mobilized thousands of cops all over the country , each of them prepared to be on duty and patrol in an allocated place and after a few months , none of them was able to find Mat Selamat and rearrest him ."]]}
+{"gec_outputs": [["People fell into panic when they knew that they had lost the harmony and peace in their country and the government had no choice but to keep claiming that their country is still safe ."]]}
+{"gec_outputs": [["If RFID comes into existence , this kind of case can be totally avoided in no time ."]]}
+{"gec_outputs": [["In addition , if RFID is supposed to be used by the public , everyone will be able to locate their friends and also their dearest family ."]]}
+{"gec_outputs": [["Nowadays , people use the all - purpose smart phone for communicating ."]]}
+{"gec_outputs": [["With the power of the Internet , it is not impossible to find a friend for afternoon tea ."]]}
+{"gec_outputs": [["In spite of that , the smart phone is still a device that needs to recharge its battery or else it will be just like a rigid object ."]]}
+{"gec_outputs": [["Imagine when people camp in the forest or hills , they will lose all of the internet signal and also take the risk that their phone runs out of batteries ."]]}
+{"gec_outputs": [["In that case , if they get lost or lose contact , they will be considered as lost and , they may not survive ."]]}
+{"gec_outputs": [["With the help of RFID , if there is an emergency when people are crying for help , they would be saved ."]]}
+{"gec_outputs": [["In conclusion , RFIited benefits people more than brings harmful side effects to the human body when considering human safety ."]]}
+{"gec_outputs": [["Nowadays , technology is more advanced than in the past ."]]}
+{"gec_outputs": [["In the past , people could only find each other and communicate face to face ."]]}
+{"gec_outputs": [["After the invention of the phone and Internet , there are more ways to use to communicate with people and even track people ."]]}
+{"gec_outputs": [["In this present time , surveillance technology has been developed which means that we are able to track people all the time everywhere ."]]}
+{"gec_outputs": [["Definitely , there are those who agree with using surveillance technology but also those who object ."]]}
+{"gec_outputs": [["Thus , let us discuss the pros and cons now to give you a clearer view of surveillance technology ."]]}
+{"gec_outputs": [["Initially , surveillance technology such as RFID ( radio - frequency identification ) was implanted into the bodies of animals ."]]}
+{"gec_outputs": [["It was used to track the path of animals and help in scientific research ."]]}
+{"gec_outputs": [["Besides that , many animals which were just released from the long - term protection of humans were implanted with RFID as well to track their new life to ensure that they could survive in the wild ."]]}
+{"gec_outputs": [["Some of the public want to use this technology to implant RFID into prisoners ' bodies ."]]}
+{"gec_outputs": [["The initial function is good indeed : to track the movements of prisoners to protect public safety and interest if they are out of prison ."]]}
+{"gec_outputs": [["However , some of the non - governmental organizations show their point of view when they object to implanting RFID into prisoners ' bodies ."]]}
+{"gec_outputs": [["Their opinions are founded on basic human rights ."]]}
+{"gec_outputs": [["Prisoners ' privacy is threatened due to the use of RFID ."]]}
+{"gec_outputs": [["After they are released from the prison , their movements are controlled and known by the government ."]]}
+{"gec_outputs": [["They feel stressed under the control of the government and it may lead to consequences that we do not desire and imagine ."]]}
+{"gec_outputs": [["Furthermore , some parents hold positive views on surveillance technology and would agree to implant RFID into their children 's body ."]]}
+{"gec_outputs": [["Their opinion is based on protecting the children 's safety and parents ' guardian ."]]}
+{"gec_outputs": [["Children could be easily found if they are lost or abducted by other people ."]]}
+{"gec_outputs": [["However , there are two sides of the issue ."]]}
+{"gec_outputs": [["This technology leads to a problem which is the same one in the prisoner issue , that is human privacy ."]]}
+{"gec_outputs": [["Parents give birth to children ; parents are responsible for taking good care of them ."]]}
+{"gec_outputs": [["Although the initial reason for the of implementation of RFID is good for children ; however , children also have human rights and privacy which is threatened by this technology ."]]}
+{"gec_outputs": [["Besides tags in human bodies , there is also the issue of implants in products ."]]}
+{"gec_outputs": [["Now , many cell phones are equipped with GPS which means that owners can find the device 's location if it is lost ."]]}
+{"gec_outputs": [["This is also an advance in surveillance technology ."]]}
+{"gec_outputs": [["Children could be easily tracked based on the location of their cell phones by their parents ."]]}
+{"gec_outputs": [["Compared to human implants , tags on the products are better and more suitable ."]]}
+{"gec_outputs": [["With product tags , children are given significant free space as compared to the restricted control of the implant ."]]}
+{"gec_outputs": [["Parents can ensure the safety of children but not violate their privacy ."]]}
+{"gec_outputs": [["It is the way that \" uses one stone to kill two birds \" ."]]}
+{"gec_outputs": [["In conclusion , based on the advantages and disadvantages discussed , I agree that surveillance technology should not be used to track people ."]]}
+{"gec_outputs": [["However , to a certain extent , I agree that implanting RFID tags on products can protect the safety of children ."]]}
+{"gec_outputs": [["As the pace of life becomes faster and faster , the need for maximum efficiency becomes stronger and stronger in every field ."]]}
+{"gec_outputs": [["To know where a certain item 's location is one of the ways to improve efficiency ."]]}
+{"gec_outputs": [["For example , UPS can track the progress of each delivery ."]]}
+{"gec_outputs": [["With information about the location of the cargo , it is much easier to prevent unexpected loss and come up with more efficient plans to save the energy and resources of the company ."]]}
+{"gec_outputs": [["RFID is one of the advanced technologies for tracking ."]]}
+{"gec_outputs": [["Due to its small size and energy - efficiency , it has become more and more popular in industry and logistics ."]]}
+{"gec_outputs": [["However , it is not a reasonable idea to use RFID to track people by human implants or RFID tags on daily products like watches or clothes , even though it does provide convenience in certain situations ."]]}
+{"gec_outputs": [["The biggest difference between humans and animals or any other object is that we have self - esteem and we need basic respect from our peers ."]]}
+{"gec_outputs": [["One of the basic rights of humans is the right for privacy ."]]}
+{"gec_outputs": [["In any period of time , as long as we do not offend others , we should enjoy the right of privacy ."]]}
+{"gec_outputs": [["However , the idea of using RFID to track people violates our right for privacy ."]]}
+{"gec_outputs": [["Since RFID tags attached to a product can remain functional for a long period of time , they could be misused for surveillance purposes which are not related to industrial production or supply activities ."]]}
+{"gec_outputs": [["For example , a consumer buys a product with RFID from a supermarket ."]]}
+{"gec_outputs": [["As the RFID is embedded within the product , people who have the access to the information definitely can track him ."]]}
+{"gec_outputs": [["However , the consumer may not be aware of the function of the tag , which could reveal sensitive information like the consumer 's home address or work address to someone who is not authorized to get the information ."]]}
+{"gec_outputs": [["If this piece of information is misused , chances are high that the consumer would suffer loss like financial loss or even endanger the life of the consumer ."]]}
+{"gec_outputs": [["Moreover , if the product is what one needs to use everyday like clothes or shoes , then the one 's location will be revealed every second ."]]}
+{"gec_outputs": [["This is just like there is an invisible stalker behind you ."]]}
+{"gec_outputs": [["It is not only scary but also illegal ."]]}
+{"gec_outputs": [["Although someone could say the information is secured very well and will not be released or misused for any purpose , the tags are still not appropriate ."]]}
+{"gec_outputs": [["We can consider this scenario : the location of where we go in daily life will every second be sent to a computer to be processed and stored ."]]}
+{"gec_outputs": [["Does this sound reasonable to you ?"]]}
+{"gec_outputs": [["As we have mentioned above , as human beings , we should enjoy our privacy during our life as long as we do not cause harm to others ."]]}
+{"gec_outputs": [["However , RFID in our purchases will violate our right of privacy ."]]}
+{"gec_outputs": [["Therefore , RFID should not be used to track people through human implants or tags on products ."]]}
+{"gec_outputs": [["Does society need surveillance or not ?"]]}
+{"gec_outputs": [["With the development of modern society , more and more new technology has appeared and people 's quality of life has risen because of the new inventions ."]]}
+{"gec_outputs": [["Some good examples such as the Internet , computers and satellites are now quite common in humans ' normal life ; however , some problems have also emerged , with a concern for the loss of the privacy of civilians ."]]}
+{"gec_outputs": [["In modern society , privacy is a hot topic in peoples ' minds ."]]}
+{"gec_outputs": [["Even if safety is the most important thing to consider in normal life , many people still want to keep their privacy in spite of the existance of some potential danger ."]]}
+{"gec_outputs": [["The contradiction between safety and privacy can not be reconciled perfectly ."]]}
+{"gec_outputs": [["With the installation of surveillance in every corner of Singapore , people 's life has safe security , and criminals are deterred by these electrical instruments ."]]}
+{"gec_outputs": [["A report shows that the crime rate in Singapore is the lowest in the world ."]]}
+{"gec_outputs": [["This is because of two reasons . One is the strict law in Singapore , and the other is the dense surveillance everywhere ."]]}
+{"gec_outputs": [["During the year 2003 , surveillance strategies helped Singapore beat SARS and successfully prevented the spreading of the epidemic situation ."]]}
+{"gec_outputs": [["At that time , the Singapore government adopted the method to install surveillance in every patient 's home to look after their actions ."]]}
+{"gec_outputs": [["Much media coverage has reported on the effective measures of installing the surveillance in Singapore ."]]}
+{"gec_outputs": [["Without the use of surveillance , the epidemic situation could not be controlled strictly , and the loss caused by SARS might be many times more than that in 2003 in Singapore ."]]}
+{"gec_outputs": [["The benefits of the surveillance are obvious in the fight against SARS , and this is a successful example of surveillance ."]]}
+{"gec_outputs": [["Every coin has two sides ."]]}
+{"gec_outputs": [["On one surveillance helps the government guard civilians ' property and life . the other the surveillance makes people feel uncomfortable because of the 24 hours ' monitoring ."]]}
+{"gec_outputs": [["In the novel 1984 , written by George Orwell , the author imagines a world in which people are being watched by Big Brother when they do anything ."]]}
+{"gec_outputs": [["Every word people say can be heard by the government and because of that , the government knows well about everyone 's mind and wants to wash everyone 's mind and control normal people totally ."]]}
+{"gec_outputs": [["It is a country without any freedom and democracy in the novel ."]]}
+{"gec_outputs": [["In reality , people are afraid of being tracked everywhere , not because of intentions to commit crimes , but the spirit of freedom and privacy that is in everyone 's heart ."]]}
+{"gec_outputs": [["When a husband is saying a sweet sentence to his wife , neither of them wants it to be heard by the people behind the monitors ."]]}
+{"gec_outputs": [["The government needs to seriously consider normal people 's privacy . ."]]}
+{"gec_outputs": [["People need a safe environment to live in , and also need a private environment to stay independent ."]]}
+{"gec_outputs": [["Surveillance is a useful method to keep society safe , but also affects the privacy of people in some degree ."]]}
+{"gec_outputs": [["The best way to solve the contradiction is to educate people well and make them live an affluent life , and then surveillance is not needed anymore ."]]}
+{"gec_outputs": [["At that time , even if there is no surveillance above people 's heads , there is surveillance in everyone 's heart and criminals have more difficulty to hide ."]]}
+{"gec_outputs": [["Nowadays , humans live in a modern society ."]]}
+{"gec_outputs": [["All around people , the world is full of high technology like CCTVs , automatic sorting systems for goods and different information systems ."]]}
+{"gec_outputs": [["In order to bring more benefit and ensure people 's safety , surveillance technology has been utilized by many companies like in UPS and DHL . These express delivery companies use surveillance technology to track their goods ."]]}
+{"gec_outputs": [["It is convenient for customers to track and confirm where and how their goods are now ."]]}
+{"gec_outputs": [["However , besides tracking goods for people , people could use this technology to track people ."]]}
+{"gec_outputs": [["I do not agree with this kind of behavior because humans are different from goods and can not be treated as goods ."]]}
+{"gec_outputs": [["There is no doubt . Tracking systems have brought many benefits in this information age ."]]}
+{"gec_outputs": [["No matter where people go , taking bus or MRT , people are on the CCTVs . It is very important and useful to track and find people ."]]}
+{"gec_outputs": [["Actually , tracking systems have provided people safety indemnification ."]]}
+{"gec_outputs": [["However , tracking people is difficult and different from goods ."]]}
+{"gec_outputs": [["For instance , a company has over two hundred employees scattered over different locations in Singapore , and is currently keeping track of working hours and overtime payments through the use of a punch card system , a system which can be open to abuses such as an employee punching another 's card ."]]}
+{"gec_outputs": [["Goods are dead , but humans are alive ."]]}
+{"gec_outputs": [["If a company really uses this technology to track their employees , employees will dislike it and claim that their human right to privacy has been violated ."]]}
+{"gec_outputs": [["In other words , people will feel that the boss or the company treats them like goods because modern people need respect not money ."]]}
+{"gec_outputs": [["So , when employees begin to resist this tracking system , they will find some ways to escape the tracking system like asking friends to help them to punch the cards ."]]}
+{"gec_outputs": [["Eventually , the company tracking system has no meaning at all . Therefore , tracking systems are a very terrible way to control people ."]]}
+{"gec_outputs": [["In addition , people tracking systems may be used by bad people in a wrong way ."]]}
+{"gec_outputs": [["One problem is that people are not sure who is in charge of these tracking systems ."]]}
+{"gec_outputs": [["For example , when people go somewhere , no matter taking bus , MRT or driving , they are on CCTVs ."]]}
+{"gec_outputs": [["If some bad people want to track someone for their personal purposes , they can hack into the government tracking system to do their own business ."]]}
+{"gec_outputs": [["In other words , the government originally hoped to use the tracking system to ensure citizen safety , now it has divulged human information ."]]}
+{"gec_outputs": [["It is very dangerous for society , Because people do not know who is tracking them , it can cause citizens trepidation ."]]}
+{"gec_outputs": [["In conclusion , as I have mentioned above , we have to agree that tracking systems have many benefits in different aspects of human life , especially in this modern world ."]]}
+{"gec_outputs": [["But tracking people is very terrible choice . It sounds like people invented a ' prison ' to jail themselves . People need respect and freedom ."]]}
+{"gec_outputs": [["Also tracking people is very dangerous if it is controlled by bad men for a not good purpose ."]]}
+{"gec_outputs": [["So surveillance technology should not be used to track people ."]]}
+{"gec_outputs": [["Surveillance technology : A prospering technology"]]}
+{"gec_outputs": [["Radio - frequency identification is a technology which uses a wireless non - contact system to scan and transfer the data from a tag attached to people or products with a radio - frequency electromagnetic field ."]]}
+{"gec_outputs": [["After this , it can automatically get the identification and ."]]}
+{"gec_outputs": [["Nowadays , this technology has been used in many kinds of fields , such as transportation and logistics , transportation payment , product tracking and inventory systems , some institutions and so on ."]]}
+{"gec_outputs": [["More interestingly , this technology is being used in human identification , even planting a chip into the human body ."]]}
+{"gec_outputs": [["This fact is very controversial among people and the possibility of personal information being released knowledge also causes public concern ."]]}
+{"gec_outputs": [["In some fields , surveillance technology has brought us tremendous benefit and advantage ."]]}
+{"gec_outputs": [["Logistics and transportation are major areas of utilization for RFID technology ."]]}
+{"gec_outputs": [["In transportation , almost all of the people have cards for daily transport ."]]}
+{"gec_outputs": [["Since we do not need to bring cash to pay for the transportation fee , enormous time has been saved for everybody ."]]}
+{"gec_outputs": [["For society , there is a more efficient transportation system ."]]}
+{"gec_outputs": [["For logistics , if all products have tags , it is much easier to count and record all the products ."]]}
+{"gec_outputs": [["This will make the logistic process more effective and also prevent the occurrence of product loss because of the tracking ."]]}
+{"gec_outputs": [["Since inventory management is very important for some kinds of companies , this technology is playing a very significant role ."]]}
+{"gec_outputs": [["Supermarkets are also using this technology to tag their products , which can record the conditions of all of the products in time and prevent stealing ."]]}
+{"gec_outputs": [["When checking out , the price tag will be scanned to get the total payment very quickly ."]]}
+{"gec_outputs": [["This will save the customers time and also improve the profits of the supermarket ."]]}
+{"gec_outputs": [["Libraries also use this technology to identify the membership of people entering , which ensures the security and the member itself will also conserve their information made in this library ."]]}
+{"gec_outputs": [["Both the library and museum apply this technology to avoid some belongings being taken out illegally ."]]}
+{"gec_outputs": [["In some kindergartens , RFID is used to tag the children to keep a record of their attendance and whereabouts ."]]}
+{"gec_outputs": [["Because the kindergarten students are very young and they do not have a very sound self - awareness , this system can prevent them from becoming lost ."]]}
+{"gec_outputs": [["All in all , the RFID system is used to capture the information of the object and track it ."]]}
+{"gec_outputs": [["This function can be used in many aspects ."]]}
+{"gec_outputs": [["With RFID , the customer who is considering buying a very expensive luxury item will be less reluctant to consider the possibility of losing it , because RFID can help them get it back ."]]}
+{"gec_outputs": [["This will inversely improve the sales of the shop ."]]}
+{"gec_outputs": [["Although in many respects , this technology can be used in positive and evidently beneficial ways , in some areas it is so controversial ."]]}
+{"gec_outputs": [["The most controversial part may be human identification ."]]}
+{"gec_outputs": [["It probably can be divided into several types ."]]}
+{"gec_outputs": [["The first type is just say the ID card which is carried externally by the person ."]]}
+{"gec_outputs": [["By using this card , our identities can be confirmed and the information of a certain institution can be kept ."]]}
+{"gec_outputs": [["However , this will raise a privacy protection issue ."]]}
+{"gec_outputs": [["How can it be guaranteed that our information will not be abused ?"]]}
+{"gec_outputs": [["Maybe this part can be resolved by using another technology ."]]}
+{"gec_outputs": [["For example , the ID card can be implanted into a switch which can be controlled by the owner ."]]}
+{"gec_outputs": [["When not using it , just switch off the card , then it will be just a useless piece of ."]]}
+{"gec_outputs": [["Another human identification is implanting RFID chips into the human body ."]]}
+{"gec_outputs": [["For this part , not only is the privacy problem , but also human health ."]]}
+{"gec_outputs": [["is the implanted chip definitely safe and feasible ?"]]}
+{"gec_outputs": [["Will it affect the normal functionality of the other organs ?"]]}
+{"gec_outputs": [["All of these problems are waiting to be resolved ."]]}
+{"gec_outputs": [["In conclusion , surveillance technology has been used in a much broader area ."]]}
+{"gec_outputs": [["Some have been widely accepted by the public but some are not ."]]}
+{"gec_outputs": [["Actually , this technology is very useful and should be definitely go on being used ."]]}
+{"gec_outputs": [["What should be a concern is how it can be applied in the right area in a right way ."]]}
+{"gec_outputs": [["If there is some controversy , how it can be improved ?"]]}
+{"gec_outputs": [["Only if it is being used in a wise and sensible approach and be adjusted and refined very profoundly , can it bring us the maximum benefit ."]]}
+{"gec_outputs": [["Surveillance technology should be used to track people ."]]}
+{"gec_outputs": [["The technology is necessary because it can provide evidence in crime investigation and social issues and decrease illegal actions effectively ."]]}
+{"gec_outputs": [["Firstly , surveillance technology is useful in crime investigation and public issues ."]]}
+{"gec_outputs": [["It can provide an objective view of what happened ."]]}
+{"gec_outputs": [["It records history which nobody can deny ."]]}
+{"gec_outputs": [["In crime investigation , the truth of evidence is necessary , which can only be found in photos , videos or small tracks ."]]}
+{"gec_outputs": [["In the supermarket , monitors are needed because we have to track thieves ."]]}
+{"gec_outputs": [["In front of the ATM , we need a camera to avoid intentional crime ."]]}
+{"gec_outputs": [["We need CCTV in every public corner to track suspicious behavior ."]]}
+{"gec_outputs": [["Only in this way can we get evidence of bad acts to protect others ."]]}
+{"gec_outputs": [["The objective truth in CCTV is helpful and efficient in crime investigation , better than asking witnesses again and again to identify who is the perpetrator ."]]}
+{"gec_outputs": [["Secondly , surveillance technology can decrease illegal actions effectively ."]]}
+{"gec_outputs": [["Imagine there is no CCTV in public ."]]}
+{"gec_outputs": [["People will act as if there is no supervision ."]]}
+{"gec_outputs": [["No evidence is recorded ."]]}
+{"gec_outputs": [["Cheating could be very common in examinations and stealing would seldom incur punishment ."]]}
+{"gec_outputs": [["In a Chinese kindergarten , children could be always abused by a teacher but no one else would know it ."]]}
+{"gec_outputs": [["The children would tell their parents ."]]}
+{"gec_outputs": [["Some parents would be too busy to take care of the children while other parents would not believe what the children had said ."]]}
+{"gec_outputs": [["The headmaster would not know how the teacher really is and she would not fire her even if some children were afraid of entering the teacher 's class ."]]}
+{"gec_outputs": [["After so many children were abused , people would come to know the truth ."]]}
+{"gec_outputs": [["The children 's hearts would be shadowed and there is nothing we could do to make up for it ."]]}
+{"gec_outputs": [["Now people suggest that every classroom in every kindergarten should have a camera ; otherwise , the teachers ' actions can not be supervised ."]]}
+{"gec_outputs": [["If there had been a camera in the classroom , maybe parents and the headmaster could have realized earlier how severe and how bad the truth was and children could have gotten protection earlier ."]]}
+{"gec_outputs": [["People may say that surveillance technology will be abused intentionally by authorized people ."]]}
+{"gec_outputs": [["It really happened in China ."]]}
+{"gec_outputs": [["In a car accident caused by an official 's relative , the record was modified with a new record ."]]}
+{"gec_outputs": [["The person in the record had been changed with another one before it was released to the public ."]]}
+{"gec_outputs": [["The modification was so obvious that people could easily recognize ."]]}
+{"gec_outputs": [["In China , things like that will happen because the legal system is not sound enough ."]]}
+{"gec_outputs": [["Power is concentrated in a few people ."]]}
+{"gec_outputs": [["The problem of abusing surveillance is actually a problem of abusing power ."]]}
+{"gec_outputs": [["Avoiding corruption and decentralizing power is more important than forbidding surveillance technology ."]]}
+{"gec_outputs": [["In conclusion , surveillance technology is necessary in many public places , in my opinion , because we need it in crime investigation and social issues ."]]}
+{"gec_outputs": [["There is a truth that we can not deny which is that surveillance technology can provide a sense of safety because sometimes machines are more honest than people ."]]}
+{"gec_outputs": [["We have to admit that preventing the abuse of surveillance and using it reasonably depend on a sound legal system , and that means surveillance has its own restriction ."]]}
+{"gec_outputs": [["Surveillance technology such as RFID ( radio - frequency identification ) has been made it possible to track people by implanting certain markers on people or products ."]]}
+{"gec_outputs": [["This is more than convenient for the authority to better control of society down to every individual ."]]}
+{"gec_outputs": [["However , because of civil rights and privacy , surveillance technology such as RFID ( radio - frequency identification ) should not be used to track people ."]]}
+{"gec_outputs": [["In the first place , every civilized person more or less dislikes the idea that he or she is being closely watched every second ."]]}
+{"gec_outputs": [["By law , citizens have the right to keep their private details unknown to the public ; however , their privacy would be violated if such surveillance technology is applied widely ."]]}
+{"gec_outputs": [["Many pupils in China have been complaining about their phones , because through their phones , their lives are all transparent to their parents ."]]}
+{"gec_outputs": [["Such technology would put people into the same circumstance as the pupils but the government plays the role of parents trying to find out whatever people are doing every second ."]]}
+{"gec_outputs": [["If pupils feel uncomfortable being watched by parents , citizens definitely would be unhappy being watched by big brother ."]]}
+{"gec_outputs": [["Close surveillance creates not only the problem of unhappiness , but indicates also an unhealthy society ."]]}
+{"gec_outputs": [["Some people may claim that it is good for security when everyone is under surveillance becasue poteintial criminals also are ."]]}
+{"gec_outputs": [["Logically , it seems perfectly right ."]]}
+{"gec_outputs": [["However , whether a behavior is a crime is dependent on the authorities ."]]}
+{"gec_outputs": [["When the authorities treat liberty as a crime , society becomes terrible ."]]}
+{"gec_outputs": [["Some have questioned whether a society under close surveillance will be a good one to live in ."]]}
+{"gec_outputs": [["Many science fiction authors have displayed good effort in describing a future in which everybody in society is put under close surveilliance by the government ."]]}
+{"gec_outputs": [["Unsurprisingly , none of them describe the future as a bright one ."]]}
+{"gec_outputs": [["In history , there were times when governments , such as Nazi Germany or the Soviet Union , wanted to secure their governance so badly that the police sniffed around people like dogs their governance the Soviet ."]]}
+{"gec_outputs": [["People nowadays would agree that it is terrible to live in those societies ."]]}
+{"gec_outputs": [["Then why would they agree to put themselves into those societies ?"]]}
+{"gec_outputs": [["A worse thing is that one may not even be aware of being tracked ."]]}
+{"gec_outputs": [["If such a thing does happen , then society would be moving on a dangerous direction without noticing ."]]}
+{"gec_outputs": [["Imagine that one day , one is suddenly arrested by the police and told that he is accused of posting anti - society statements on the Internet ."]]}
+{"gec_outputs": [["And all the evidence has been collected through hidden surveillance when he thought he was safely expressing his opinion in his house !"]]}
+{"gec_outputs": [["In summary , surveillance technology should not be used to track people in order to keep society comfortable and safe to live in ."]]}
+{"gec_outputs": [["What should really be put under close surveillance is the government ."]]}
+{"gec_outputs": [["People must make sure that the government is not abusing its power in ways that include tracking people ."]]}
+{"gec_outputs": [["There is one thing in common in the worlds described in much fiction - chips are implanted in humans and record their location , history and even thoughts ."]]}
+{"gec_outputs": [["The readers just smile when they flip the page because it never comes to their minds that one day it might come true ."]]}
+{"gec_outputs": [["However , the world has always been beyond our imagination and has never let us down ."]]}
+{"gec_outputs": [["Actually , this technology has already been weaved into our life ."]]}
+{"gec_outputs": [["We have benefitted from surveillance technology for many years and in many ways ."]]}
+{"gec_outputs": [["Travelers survive in the desert thanks to the GPS guiding them ."]]}
+{"gec_outputs": [["The police seize criminals thanks to CCTV ."]]}
+{"gec_outputs": [["Having power can help people to achieve lots of things ; however , abusing will guide us another direction ."]]}
+{"gec_outputs": [["Tracking people is one way of abusing technology and in fact , it happens every day ."]]}
+{"gec_outputs": [["Although we have not been implanted with chips we are recorded by CCTV ."]]}
+{"gec_outputs": [["It is a common question asked by lots of people that even though the technology is developing and we benefit from it , we are losing our privacy ."]]}
+{"gec_outputs": [["We can not deny that surveillance technology is a great achievement that secures us and protects us from criminals but we also can not ignore the loss of our privacy and even limits to our freedom ."]]}
+{"gec_outputs": [["My life now is recorded by lots of CCTV ."]]}
+{"gec_outputs": [["Every day when I open my door and go to the lady 's down the corridor , I am recorded by 3 CCTVs ."]]}
+{"gec_outputs": [["I need to dress up neatly in case one day someone who checks the CCTV will find a girl in weird clothing ."]]}
+{"gec_outputs": [["When I work , I can hear my heart racing if I am doing something wrong or relaxing during work time ."]]}
+{"gec_outputs": [["The next minute , I may have tea with my manager ."]]}
+{"gec_outputs": [["Such a nightmare is because of overuse of surveillance technology ."]]}
+{"gec_outputs": [["Although we all understand the installing of CCTV is to protect us from criminals , nowadays , it seems to be used too much ."]]}
+{"gec_outputs": [["According to the article , \" Lawful Interception \" , in the US , every telecommunication company has a contract with the FBI , requiring them to keep phone call records easily searchable and accessible to the FBI ."]]}
+{"gec_outputs": [["Moreover , as shown in many Hollywood movies , Google mail is also accessible to the FBI ."]]}
+{"gec_outputs": [["There are so many people in the FBI . Although it has strict rules , we can not think ideally . There could be one who abuses his power and accesses the resources for private purposes and leases them out ."]]}
+{"gec_outputs": [["Leasing private information , even if it only happens one time , is one too many for an individual ."]]}
+{"gec_outputs": [["Moreover , the money spent on the telephone call database is $ 1.8 million per year ."]]}
+{"gec_outputs": [["\" The Big Brother is watching you \" ( Orwell , ) . The fictional world described in George Orwell 's novel now turns out to be true ."]]}
+{"gec_outputs": [["There is only one thing different ."]]}
+{"gec_outputs": [["Our lives is not only exposed to Big Brother ."]]}
+{"gec_outputs": [["Because of CCTV , telephones and other RFID , we are becoming characters in a play watched by someone , but we seldom notice it and that is why it is horrible for us ."]]}
+{"gec_outputs": [["Because of the fast growth of electrical technology , people have been trying to adopt more and more advanced technology into our lives to make full use of it ."]]}
+{"gec_outputs": [["Many advantages have been shown in the areas like politics ."]]}
+{"gec_outputs": [["Because of surveillance technology , more and more things being tracked and more and more clues can be used ."]]}
+{"gec_outputs": [["However , disadvantages have also been gradually disappeared as with the fruits people are enjoying ."]]}
+{"gec_outputs": [["That is to say , there are more and more doubts raised by the public about surveillance technology ."]]}
+{"gec_outputs": [["From the view of my point , I think the application should only be authorized by people in some specific fields like politics and public security ."]]}
+{"gec_outputs": [["Firstly , privacy will not be protected if everything is under surveillance ."]]}
+{"gec_outputs": [["We can not imagine our every move being tracked and there may be someone who is staring at you from some place through a monitor ."]]}
+{"gec_outputs": [["That sounds like we are naked in front of the public . There are no secrets or even privacy for us ."]]}
+{"gec_outputs": [["Perhaps the surveillance is installed for the sake of safety , but actually it conversely makes us less safe ."]]}
+{"gec_outputs": [["Therefore , surveillance technology can not be casually used ."]]}
+{"gec_outputs": [["Secondly , it may be used by lawbreakers ."]]}
+{"gec_outputs": [["There is no denying that every coin has two sides ."]]}
+{"gec_outputs": [["same also applies to technology ."]]}
+{"gec_outputs": [["On one side , we can use it to ensure that something is under our control to reduce the crime rate ."]]}
+{"gec_outputs": [["On the other side , the technology could also be used by the lawbreakers to commit crimes ."]]}
+{"gec_outputs": [["And once this happens , privacy does not exist any more and people 's lives are under great threat ."]]}
+{"gec_outputs": [["Therefore , this technology carries great risk if we can only see the advantages that have appeared ."]]}
+{"gec_outputs": [["Thirdly , it is also a waste of time and money if we use it in our daily life ."]]}
+{"gec_outputs": [["Imagine a person whose salary is 2000 dollars per month ."]]}
+{"gec_outputs": [["And he spends 1000 dollars to install a surveillance system in his house ."]]}
+{"gec_outputs": [["Then if his house gets burgled , perhaps he can use the surveillance to get his money back ."]]}
+{"gec_outputs": [["However , if nothing happens inside his house , then the surveillance becomes useless , and he will also feel very uncomfortable because his every move is being monitored ."]]}
+{"gec_outputs": [["Therefore , for ordinary people , there is no need for them to use this technology ."]]}
+{"gec_outputs": [["Otherwise , it is just a waste of resources ."]]}
+{"gec_outputs": [["From the reasons above , we can see that surveillance technology brings great danger with it so that we can not apply it to our daily lives ."]]}
+{"gec_outputs": [["However , we can take the essence and reject the dross ."]]}
+{"gec_outputs": [["That is to say , we can use it in some specific and special areas such as public security and politics ."]]}
+{"gec_outputs": [["These fields are special because of the job category , and the need to be open to the public , so the disadvantages will not be apparent ."]]}
+{"gec_outputs": [["Contrarily , it can help to monitor public figures in politics and track offenders in security ."]]}
+{"gec_outputs": [["Therefore , surveillance technology should not be used except for some specific jobs ."]]}
+{"gec_outputs": [["Surveillance technology such as Radio - Frequency Identification ( RFID ) to track the population is potentially a dangerous weapon of the governments against their own people ."]]}
+{"gec_outputs": [["It should therefore not be used to track the population in order to protect people 's privacy and the idea of democracy ."]]}
+{"gec_outputs": [["Using surveillance technology such as Radio - Frequency Identification ( RFID ) to track the population can be seen as merely progression from older technologies such as identification cards ."]]}
+{"gec_outputs": [["A possible benefit is better statistical analysis , which will provide the government with more information when drafting policies ."]]}
+{"gec_outputs": [["However , in this very non - ideal world where corruption is abundant , wide usage of such surveillance technology and accurate tracking is potentially a dangerous , perverted and deadly weapon ."]]}
+{"gec_outputs": [["Examples that are hypothetical and yet concrete are action spy movies , such as the Bourne Identity ."]]}
+{"gec_outputs": [["In the movie , the spy agent accesses the public street cameras to track Jason 's Borne whereabouts ."]]}
+{"gec_outputs": [["This clearly illustrates how a corrupt government may breach its civilians ' privacy ."]]}
+{"gec_outputs": [["In addition , corrupt officials may sell this tracking information to the mafia ."]]}
+{"gec_outputs": [["Misha ( 2008 ) explains in his book ' McMafia ' that the shadow market accounts for 20 % of the global economy ."]]}
+{"gec_outputs": [["Judging from the crazy yet realistic anecdotes about gangsters , human traffickers , and the yukuza in his book , it is not difficult to imagine the opportunistic nature of human desiring this marvelous tracking technology ."]]}
+{"gec_outputs": [["The people who are on the run from the mafia will be at risk !"]]}
+{"gec_outputs": [["Surveillance technologies should also not be used to infringe people 's liberty and freedom of opinion ."]]}
+{"gec_outputs": [["The idea of democracy and power of the people will be at risk if people are tracked ."]]}
+{"gec_outputs": [["The ability to track every individual will empower dictators and their secret police ."]]}
+{"gec_outputs": [["Already without these technologies , the secret police agencies are able to track their prey and unsuspecting rebels ."]]}
+{"gec_outputs": [["An example is the Nazi secret police that Hitler used to dispose ( of bodies literally ) and stamp out any of Hilter 's opposition using fear ( and maybe guns , knives and poison ) ."]]}
+{"gec_outputs": [["As previously mentioned there are benefits to these surveillance and tracking technologies ."]]}
+{"gec_outputs": [["Trends of highly emotional and easily manipulated humans can be tracked , analyzed , archived and chronicled ."]]}
+{"gec_outputs": [["Trends of society and cultures can therefore be observed as a function of time ."]]}
+{"gec_outputs": [["These statistical analyses will give governments more accurate information when drafting policies ."]]}
+{"gec_outputs": [["An example of making a good informed decision is the story of planning and constructing a walking path . The government has a lack of information and decides that the people need a proper concrete walking path and builds one at a random location ."]]}
+{"gec_outputs": [["However , they could have built the walking path on a dirt path that has been walked out by the people themselves ."]]}
+{"gec_outputs": [["If they knew that this was the favored route of the people , the government would have had sufficient information to build a walking path that truly benefits the people ."]]}
+{"gec_outputs": [["Still the possible disadvantages of these surveillance technologies is too present in my paranoid mind and they clearly outweigh the benefits , in my opinion ."]]}
+{"gec_outputs": [["It is therefore better to stick to the status quo ."]]}
+{"gec_outputs": [["With the development of technology , we have more advanced methods to track people in today 's society ."]]}
+{"gec_outputs": [["Surveillance technology such as RFID ( radio - frequency identification ) is frequently used by the police to track people who are considered suspicious ."]]}
+{"gec_outputs": [["However , the use of surveillance technology is usually done secretly , and debate has been generated recently whether surveillance technology should be abandoned ."]]}
+{"gec_outputs": [["Some socialists argue that using surveillance devices on people threatens human rights and should be totally abandoned ."]]}
+{"gec_outputs": [["However , people who are responsible for assert that surveillance technology is the most effective way to track people and makes it easier for them to track suspicious people so that they can do their work much more effectively ."]]}
+{"gec_outputs": [["From my point of view , surveillance technology should still be used to track people at present since there are no better solutions ."]]}
+{"gec_outputs": [["The application of surveillance technology is the most effective method to track people and thus can help the police a lot ."]]}
+{"gec_outputs": [["This method may violate certain people 's rights and privacy , but in exchange for that we can get a safe and peaceful society ."]]}
+{"gec_outputs": [["If surveillance technology is abandoned , the police would have would have more difficulty tracking suspicious people and could have little control of the people who are dangerous to society ."]]}
+{"gec_outputs": [["For example , without surveillance technology , murderers could escape much more easily since no one would know their position ."]]}
+{"gec_outputs": [["Without surveillance technology , suspicious people might actually commit a murder and the murder could be much more serious if the police could not arrive in time to help out ."]]}
+{"gec_outputs": [["On the other hand , the application of surveillance technology serves as a warning to the murderers and they might not commit more murders since they might be afraid of being tracked by the police ."]]}
+{"gec_outputs": [["If this technology is abandoned , it may influence more bad people to commit murder or steal things since it is very difficult for the police to track them and they have a high possibility of not being punished by the law ."]]}
+{"gec_outputs": [["Therefore , the continuation of using surveillance technology is really necessary ."]]}
+{"gec_outputs": [["Although surveillance technology should not be totally abandoned , regulations of using it are expected ."]]}
+{"gec_outputs": [["With the popularization of surveillance technology , more concise and more complete regulations of using it are highly needed ."]]}
+{"gec_outputs": [["For example , ordinary people should not be allowed to use it or allowed to access surveillance devices devices so that abusive usage of surveillance technology can be avoided . This is also an effective way to protect human rights ."]]}
+{"gec_outputs": [["Only the police should be allowed to use surveillance technology and such technology can only be used to help track murderers or suspects ."]]}
+{"gec_outputs": [["With proper use of surveillance technology , it can be a good tool for the police , and also benefit all society ."]]}
+{"gec_outputs": [["It is unavoidable that some socialists will argue that surveillance technology violates human rights ; however , for the sake of the whole society , surveillance technology should still be used ."]]}
+{"gec_outputs": [["As long as the regulations for using are obeyed , surveillance technology can serve as a good tool ."]]}
+{"gec_outputs": [["In modern society , public surveillance is becoming a normal phenomenon ."]]}
+{"gec_outputs": [["In the United States , after the horrible attack on 11 September , the US Congress passed the Patriot Act , which is mainly to increase domestic surveillance as a counter against terrorism ."]]}
+{"gec_outputs": [["Although these bureaucratic actions have prevented another similar attack from happening again , the act is widely criticized for its violation of individual privacy ."]]}
+{"gec_outputs": [["With the development of surveillance technology such as RFID , spying on the population would be much easier , which will create an even worse situation for citizens ."]]}
+{"gec_outputs": [["In this paper , the incorrectness of using technology such as RFID to track people will be proved through the discussion of violation of privacy , the trend to misuse such measures and the enhancement of the totalitarian rule of the authorities ."]]}
+{"gec_outputs": [["First , violation of privacy will be dramatically increased ."]]}
+{"gec_outputs": [["Typically , RFID tags are small devices with a read - only chip ."]]}
+{"gec_outputs": [["The usual distance of data exchange can be several meters ."]]}
+{"gec_outputs": [["Once such a chip is loaded with personal information and implanted in individuals , all the information about his or her life can be recorded ."]]}
+{"gec_outputs": [["Some supporters may argue that it will be more convenient to use RFID for identification in places like airports and checkpoints ."]]}
+{"gec_outputs": [["However , the fact is that such technology will create checkpoints everywhere ."]]}
+{"gec_outputs": [["Furthermore , such tracking of individuals is done without the permission of the subject person ."]]}
+{"gec_outputs": [["That is to say , people will be surveilled every moment without their awareness ."]]}
+{"gec_outputs": [["In such a situation , individuals will lose their basic privacy ."]]}
+{"gec_outputs": [["Second , when technology like RFID is widely used , there will be a trend to misuse such technology ."]]}
+{"gec_outputs": [["An important feature of RFID is the minimal security ."]]}
+{"gec_outputs": [["Since it is read - only , the card can not protect itself ."]]}
+{"gec_outputs": [["Moreover , almost every one can gain access to the card reader as the reader requires only simple technology ."]]}
+{"gec_outputs": [["Therefore , if a business man wants to defeat his competitor , he can just buy a reader and spy for commercial secrets ."]]}
+{"gec_outputs": [["Hence , once RFID is widely used , people are very likely to spy on each other , which will destroy trust , respect and many moral values ."]]}
+{"gec_outputs": [["Third , to use surveillance technology will enhance the totalitarian power of the authorities ."]]}
+{"gec_outputs": [["The government is supposed to serve the people ."]]}
+{"gec_outputs": [["However , once the government gathers too much power , democracy may be turned into totalitarianism , and surveillance technology provides the means ."]]}
+{"gec_outputs": [["Spying and collecting excessive information of individuals are the first steps ."]]}
+{"gec_outputs": [["When the government is able to find out all the precise information about its citizens , it can gradually exert control over them ."]]}
+{"gec_outputs": [["Consequently , the government is very likely to turn into a totalitarian authority , which will be the worst situation and a tragedy for every single citizen ."]]}
+{"gec_outputs": [["All in all , surveillance technology such as RFID should not be used to track the general population because of the violation of privacy , the trend to misuse such measures and the enhancement of the totalitarian power of the authorities ."]]}
+{"gec_outputs": [["Privacy must be respected , and power over others should be controlled ."]]}
+{"gec_outputs": [["Without such surveillance technology , we would have a better future ."]]}
+{"gec_outputs": [["With the development of science and technology , people nowadays are living under various types of surveillance ; for example , CCTVs can be seen almost everywhere in public areas ."]]}
+{"gec_outputs": [["Recently , a newly developing surveillance technology called radio - frequency identification , or RFID for short , has generated heated discussions on whether it should be used to track people ."]]}
+{"gec_outputs": [["Some people think RFID should be banned because of privacy considerations ."]]}
+{"gec_outputs": [["However , as far as I am concerned , using RFID to track specific people can be very helpful in situations such as scientific exploration , rescues and police activities ."]]}
+{"gec_outputs": [["During scientific explorations , especially geographical ones , tracking is very important ."]]}
+{"gec_outputs": [["This tracking will help scientists to more easily get their results . Clear exploration route information will also be useful post - research when scientists come back ."]]}
+{"gec_outputs": [["In addition , people who research in biodiversity will also need to be tracked ."]]}
+{"gec_outputs": [["When these scholars are on field journeys , they also have to relate their observations with their route information ; this is when RFID is of great significance ."]]}
+{"gec_outputs": [["In addition , field journeys are sometimes very dangerous ."]]}
+{"gec_outputs": [["Observers are likely to go into the rural forests or mountainous areas ."]]}
+{"gec_outputs": [["Their safety may be greatly compromised ."]]}
+{"gec_outputs": [["For these kinds of situations , RFID will help a lot ."]]}
+{"gec_outputs": [["Actually , not only for scientific observations but also during adventure journeys or travelling , RFID can keep human beings from harm ."]]}
+{"gec_outputs": [["Firstly , knowing where the travelers are and may go can assist them in knowing what the surroundings will be like and they can prepare better to protect themselves or they can change routes to avoid potential danger ."]]}
+{"gec_outputs": [["Furthermore , by showing the geographical position of people , RFID can accelerate the rescue process and will improve the survival rate of victims ."]]}
+{"gec_outputs": [["During a rescue , every second is valuable !"]]}
+{"gec_outputs": [["RFID is also useful in police activities ."]]}
+{"gec_outputs": [["By keeping track of the suspects , police officers can decide exactly who the criminal is sooner and more easily learn the truth behind the crime ."]]}
+{"gec_outputs": [["Furthermore , knowing where the criminal is will also simplify the chasing process ."]]}
+{"gec_outputs": [["Policeman can just go to a certain place and chase the criminal ."]]}
+{"gec_outputs": [["Besides , tracking potentially dangerous people will be helpful for the safety department to predict harm and better avoid problems ."]]}
+{"gec_outputs": [["Some people may argue that using RFID to track people will violate individuals ' privacy ."]]}
+{"gec_outputs": [["Nevertheless , the activities I mentioned above are little related to privacy issues ."]]}
+{"gec_outputs": [["Firstly , for scientific exploration , rescues and police activities , the privacy factors are far less important than individual or social safety and scientific results ."]]}
+{"gec_outputs": [["In addition , for observation journeys and traveling , we only need to use RFID on certain individuals and they will agree with this action for their own benefit ."]]}
+{"gec_outputs": [["Above all , I think we can not ban the use of RFID completely since it will be of great help during scientific exploration , rescue and police activities ."]]}
+{"gec_outputs": [["Using this technology reasonably will assist people to walk faster and further along the long and rough path of developing civilization ."]]}
+{"gec_outputs": [["Not Being Imprisoned by Surveillance Technology"]]}
+{"gec_outputs": [["With the development of science and technology , surveillance technology is playing its role in people 's lives ."]]}
+{"gec_outputs": [["It monitors everybody 's movement or activity , and enables us to identify suspects involved in any misdoing which violates the law , etc ."]]}
+{"gec_outputs": [["While surveillance technology like RFID brings lots of convenience to our life , some people argue that this kind of technology actually makes us feel unsafe ."]]}
+{"gec_outputs": [["Personally , I think surveillance technology such as RFID ( radio - frequency identification ) should not be used to track people , for the benefit it brings to me can not match the concerns it causes ."]]}
+{"gec_outputs": [["It has been quite a long time since someone has raised the importance of the right of privacy ."]]}
+{"gec_outputs": [["Without a doubt , surveillance technology violates the right since it leaks people 's information without getting their permission ."]]}
+{"gec_outputs": [["When the technology is not so well developed , it may not be a big problem for leaking limited information ."]]}
+{"gec_outputs": [["As it becomes highly developed , it is very scary to realize that this technology actually tells lots of people where you go and what you do ."]]}
+{"gec_outputs": [["It gives you the feeling that all people are watching a movie , and you are the hero whose every movement including using the toilet is under others ' observation , just like what was showed in the movie The Truman Show which chronicles the life of a man who is initially unaware that he is living in a constructed world , broadcast to billions of people ."]]}
+{"gec_outputs": [["When I have such feelings , I feel that I do not belong to the human race like everyone else any longer ; instead , I am like a pet or a tool to be made fun of by others ."]]}
+{"gec_outputs": [["It is more like a prisoner 's life because we are under other people 's control and we can do nothing to change our situation ."]]}
+{"gec_outputs": [["Moreover , when we allow surveillance technology to be used to track people , it increases the success rate of people committing crimes ."]]}
+{"gec_outputs": [["For example , thieves can easily find out the best time to visit our houses and kidnappers can take away our kids every time if they are informed of everyone 's location ."]]}
+{"gec_outputs": [["That will also cause more social concerns ."]]}
+{"gec_outputs": [["However developed our society is , technology should always serve us as a tool instead of constraining us like ropes ."]]}
+{"gec_outputs": [["All technology is born with its advantages and its shortcomings just like nuclear power or weapons ."]]}
+{"gec_outputs": [["If we can not choose the proper way to use it , we will taste the bad consequences of it ."]]}
+{"gec_outputs": [["As for surveillance technology , which is not only inefficient in improving our life quality but also violates our right of privacy , it should not be used to track people ."]]}
+{"gec_outputs": [["All of us hope to live in a freer , more relaxed and safer world ."]]}
+{"gec_outputs": [["Population ageing is a global phenomenon as shown in China , India , Europe and other countries and regions ."]]}
+{"gec_outputs": [["Studies have shown that the current average life span is over 65 ."]]}
+{"gec_outputs": [["Projections of the United Nations indicate that the population aged 60 or over in developed and developing countries is increasing at 2 % to 3 % annually ."]]}
+{"gec_outputs": [["The rising life expectancy is considered a challenge as a smaller workforce results as the population ages ; high burden for governments to support financially too many ageing people ."]]}
+{"gec_outputs": [["However , it can be considered an advantage as there is little competition in the workforce ."]]}
+{"gec_outputs": [["Rising life expectancy is a two - sided sword which is both a challenge and an achievement ."]]}
+{"gec_outputs": [["Rising life expectancy results in a smaller available workforce ."]]}
+{"gec_outputs": [["Fewer young people and more elderly people exist globally ."]]}
+{"gec_outputs": [["This results in an unbalanced ratio between young people and older people ."]]}
+{"gec_outputs": [["This is a challenge as it reduces the productivity of countries , and hence affects the productivity of the world ."]]}
+{"gec_outputs": [["Globally , manpower is lacking ."]]}
+{"gec_outputs": [["Although the current world is a digital world in which more machines are used to replace manpower , manpower is required to operate these machines so that they can better function ."]]}
+{"gec_outputs": [["In countries like Singapore , manpower is the only natural resource available which Singapore can invest in as she does not have enough land to build farms and factories ."]]}
+{"gec_outputs": [["In addition , Singapore focuses more on developing its tertiary industry which mainly consist of services ."]]}
+{"gec_outputs": [["People are needed ."]]}
+{"gec_outputs": [["More importantly , Singapore wants to be a knowledge - based country and more highly educated people are required ."]]}
+{"gec_outputs": [["Ageing results in less manpower and fewer highly educated people are available in proportion ."]]}
+{"gec_outputs": [["More elderly people are a burden to society as more funds are required by the government to support their standard of living ."]]}
+{"gec_outputs": [["As a general trend , elderly people are more likely to be ill as compared to young capable adults ."]]}
+{"gec_outputs": [["More healthcare is needed for elderly people than for young adults ."]]}
+{"gec_outputs": [["In most countries healthcare is provided free from the government ."]]}
+{"gec_outputs": [["As a result , the government needs more taxes from companies in order to have enough money to provide healthcare to elderly people ."]]}
+{"gec_outputs": [["Studies have shown that the current average life span is over 65 ."]]}
+{"gec_outputs": [["This is an age when most people are retired and have no source of income ."]]}
+{"gec_outputs": [["Their purchasing power is low ."]]}
+{"gec_outputs": [["In an aged population , low spending affects the economic growth ."]]}
+{"gec_outputs": [["Companies are in trouble if they can not earn sufficient money to sustain their business and they also need to pay high taxes to the government ."]]}
+{"gec_outputs": [["Population ageing is a challenge for economic development ."]]}
+{"gec_outputs": [["Despite the challenges of an ageing population , it can be an advantage as less people are in competition to bid for one job position ."]]}
+{"gec_outputs": [["Therefore , people are generally less stressed when working ."]]}
+{"gec_outputs": [["Life is more enjoyable for young adults ."]]}
+{"gec_outputs": [["Rising life expectancies also indicates that the standard of living has improved for the majority of people ."]]}
+{"gec_outputs": [["Healthcare is better than in the past ."]]}
+{"gec_outputs": [["They can live longer as they can afford high healthcare fees to maintain their health in a better condition ."]]}
+{"gec_outputs": [["In conclusion , rising life expectancy is a challenge as it results in more potential problems for future sustainable economic development ."]]}
+{"gec_outputs": [["However , it is an achievement as it is an indication that our society is progressing well and people are living in better conditions ."]]}
+{"gec_outputs": [["With an ageing population , many countries are facing the same challenges to build safe houses and facilities to cater to the old aged ."]]}
+{"gec_outputs": [["After a certain age , they will have to retire ."]]}
+{"gec_outputs": [["The challenge of many ageing countries will increase when no new generation could take over their place in that particular trade ."]]}
+{"gec_outputs": [["First , I will discuss the challenges of having an ageing population such as building more facilities and hospitals that will be needed when the population starts to age and jobs which have no young people taking over which can lead to economic downfall ."]]}
+{"gec_outputs": [["Secondly , I will discuss the ageing population as an achievement because they have implemented healthy lifestyles and good eating habits ."]]}
+{"gec_outputs": [["When people start to age , many diseases will surface unnoticed ."]]}
+{"gec_outputs": [["Therefore , for the welfare of the ageing population , more old age hospitals will have to be built ."]]}
+{"gec_outputs": [["Land space will be limited when more hospices are built to take care of the elderly people ."]]}
+{"gec_outputs": [["With illnesses surfacing and the increase in ageing population , increasing numbers of nurses and doctors will have to be available ."]]}
+{"gec_outputs": [["However , not many young people are passionate about helping society or even helping the elderly ."]]}
+{"gec_outputs": [["Hence , the country will face a big challenge to take care of the elderly ."]]}
+{"gec_outputs": [["In addition , retirement is a must in some countries ."]]}
+{"gec_outputs": [["This could cause a drastic fall in their economy if the younger generation could not take over their work ."]]}
+{"gec_outputs": [["It would thus be a big challenge to the country as there would be no one boosting its economy ."]]}
+{"gec_outputs": [["The ageing population could be an achievement as this indicates measures are being implemented to encourage a healthy lifestyle in the population ."]]}
+{"gec_outputs": [["The more old people the country has , the more experience it will have as most elderly people can share their old experiences with the younger generation and help them not make the same mistakes ."]]}
+{"gec_outputs": [["This will help the country to move forward rapidly ."]]}
+{"gec_outputs": [["More exercise or any other forms of workout can prolong the lifespan of people ."]]}
+{"gec_outputs": [["It also indicates that the foods the people eat are nourishing and can decrease the amount of illness that can cause death , thus living longer ."]]}
+{"gec_outputs": [["Food can be a big part of our lives ."]]}
+{"gec_outputs": [["Eating the right amount of healthy or junk food can be a cause of having a longer or shorter lifespan ."]]}
+{"gec_outputs": [["Korea is an example ."]]}
+{"gec_outputs": [["It is said that kimchi can reduce the chances of having cancer and in addition , the people would have a good complexion ."]]}
+{"gec_outputs": [["True enough , their population is ageing but people there can live very long due to the food they are consuming ."]]}
+{"gec_outputs": [["Thus , food can play an important role in a healthy population ."]]}
+{"gec_outputs": [["As life could be precious , An ageing population could be an advantage as well as a disadvantage to a particular country ."]]}
+{"gec_outputs": [["A balanced phenomenon should be seen in one nation ."]]}
+{"gec_outputs": [["Rising life expectancies could be seen as a good or a bad trend to others ."]]}
+{"gec_outputs": [["Therefore , every country should try to keep both the young and old generations balanced ."]]}
+{"gec_outputs": [["Studies have shown that life spans are getting longer which reflects rising life expectancy ."]]}
+{"gec_outputs": [["It is clear that population aging is happening all over the world , since the current average life span is 65 and the population above the age of 60 is increasing year after year ."]]}
+{"gec_outputs": [["This shows rising life expectancy ; it is an achievement and it is also a challenge ."]]}
+{"gec_outputs": [["Rising life expectancy may be due to several different reasons , for example , it may be because of the improvement in living conditions or because of the upgraded cleanliness of the living environment , or because of the wide range of nutrition that is absorbed by humans , or because of the development of the medical system in the country ."]]}
+{"gec_outputs": [["No matter which reason stated above is responsible for rising life expectancy , it is evidence of the achievement of the human race ."]]}
+{"gec_outputs": [["It is technological developments that enabled the improvement of living conditions ; the discovery of food and nutrition that is more suitable and more necessary for humans to absorb ; the various medicines that can be used to cure different diseases ."]]}
+{"gec_outputs": [["Without all this technology we may need to live in the same conditions of centuries ago , with a higher death rate when diseases spread around the world and the human nations had no solution ."]]}
+{"gec_outputs": [["The rising life expectancy shows the human nation has overcome some of the challenges of the natural environment around us during the existence of so many centuries ; therefore , it is an achievement ."]]}
+{"gec_outputs": [["However , rising life expectancy is also a challenge to the entire human race ."]]}
+{"gec_outputs": [["With the population ageing problem getting more and more serious all over the world , the shortage of various kinds of resources challenge most of the countries in the world ."]]}
+{"gec_outputs": [["First , food resources and medical resources are the most important to support living human beings ."]]}
+{"gec_outputs": [["The overcrowded modern cities also raise the problem of public transportation , unevenly distributed wealth and education resource shortages are the problems that some countries may have face to ."]]}
+{"gec_outputs": [["Although rising life expectancy is an challenge to the entire human ace , the detailed problems that each country will encounter are different ."]]}
+{"gec_outputs": [["It is clear that the problems that may be faced by developed and developing countries are different ."]]}
+{"gec_outputs": [["For developing countries , they may encounter more shortage of food resources and the problem of how to develop a better medical system to serve the entire nation They also face the problem of how to distribute wealth evenly to benefit the entire population . Moreover , they need to consider carefully how to build the education system so that the next generation will be able to carry on to improve the whole country ."]]}
+{"gec_outputs": [["For developed countries , the challenge they face are mainly that the overcrowded modern cities usually have a public transportation problems and also unevenly distributed wealth which results in some of the population being unable to benefit from the development of human society in terms of technology which improves the quality of life ."]]}
+{"gec_outputs": [["In conclusion , rising life expectancy can be considered both challenge and achievement ."]]}
+{"gec_outputs": [["An ageing population is a prolonged and persistent societal problem that is being discussed in most of the developed countries ."]]}
+{"gec_outputs": [["As the standard of living increases , the affordability of high quality healthcare services and medical technologies , which have advanced over the decades , among the general public has become increasingly available ."]]}
+{"gec_outputs": [["People of the developed nations are likely to be well - taken care of , partly because of the various healthcare incentives and schemes provided by their respective governments ."]]}
+{"gec_outputs": [["In the following paragraphs , I will take Singapore as the case study as a reference to my discussion ."]]}
+{"gec_outputs": [["Rising life expectancy can be a benefit to families ."]]}
+{"gec_outputs": [["There is a Chinese saying that goes , \" Jia you yi lao , ru you yi bao \" ."]]}
+{"gec_outputs": [["This means , having an elderly person at home is equivalent to having gold at home ."]]}
+{"gec_outputs": [["Where every home houses an elderly person , the future generations can learn and carry on their traditional and moral values ."]]}
+{"gec_outputs": [["Where filial piety and respect for the elderly are highly emphasized in Chinese traditions , the children can learn to respect and interact with their grandparents from a young age and also with their parents ."]]}
+{"gec_outputs": [["With good communication and interaction , an elderly person can guide the young with valuable lessons in life ."]]}
+{"gec_outputs": [["An individual is a unit of the society , every good individual thus is a precious contribution to the society 's and nation 's growth ."]]}
+{"gec_outputs": [["On the other hand , rising life expectancy can also be an indication , though not entirely , of a country 's responsibility to their citizens ."]]}
+{"gec_outputs": [["A long - lived and healthy individual is sometimes related to the good standard of living and healthcare services that one has received ."]]}
+{"gec_outputs": [["In other words , it indicates that the national healthcare system is effective and well - managed by the Government ."]]}
+{"gec_outputs": [["This gives credit to the Government 's medical and healthcare schemes ."]]}
+{"gec_outputs": [["Thus , rising life expectancy can be seen as an achievement of the Government 's well - planned or managed schemes ."]]}
+{"gec_outputs": [["However , this should not be entangled with the idea that high life expectancy equates with a nation 's provision of quality healthcare benefits and support for senior citizens ."]]}
+{"gec_outputs": [["An ageing population is often viewed negatively by developed countries that are economically oriented ."]]}
+{"gec_outputs": [["In order to cope with an ageing population that pulls down or hinders economic development , more physically capable and young workers are required in society ."]]}
+{"gec_outputs": [["If this requirement is not fulfilled , this will lead to more financial strain such as increased taxes imposed on societal or company working groups ."]]}
+{"gec_outputs": [["This can cause more societal issues such as lower satisfaction of workers towards the government , decreasing birth rates because people could not afford the expenses of their children 's upbringing and educational fees , which adds on more burdens and worries for the government ."]]}
+{"gec_outputs": [["Overall , rising life expectancy can be considered as an advantage and disadvantage to the country ."]]}
+{"gec_outputs": [["It is an advantage , in terms of the intangible aspects , such as emotional and mental development of future generations and contribution to a country 's good reputation ."]]}
+{"gec_outputs": [["It is a disadvantage , on the other hand , in terms of tangible aspects mainly in the economic drive and desire of the nation for the sustainability of their economic position and reputation in the world ."]]}
+{"gec_outputs": [["The rising life expectancy globally can be challenging and yet an achievement because the problems of humans could be medically difficult ."]]}
+{"gec_outputs": [["These few problems were taking a toll on human life over the years after people were over 60 years of age ."]]}
+{"gec_outputs": [["Most of the illness is associated with mental illness , musculoskeletal pain , and sight and hearing loss ."]]}
+{"gec_outputs": [["It is a challenge when illness can not be easily avoided by any person with a stressful lifestyle any place in the world ."]]}
+{"gec_outputs": [["Medical advances which help in curing illness have also been getting better over the years which help in increasing life expectancy ."]]}
+{"gec_outputs": [["When a person grows old , the medical needs of the person increase over the years relative to the age of the person ."]]}
+{"gec_outputs": [["The number and types of illness also increase relative to the age too ."]]}
+{"gec_outputs": [["This is particularly seen in many parts of the world ."]]}
+{"gec_outputs": [["As the amount of stress , the types of food mixed with chemicals , and the quality of living in terms of environment get worse ."]]}
+{"gec_outputs": [["More variation in medical treatments is required to help increase the life expectancy of humans ."]]}
+{"gec_outputs": [["More challenges also include the environmental challenges that have been seen over the years ."]]}
+{"gec_outputs": [["Because of the rate of environmental damage , we could see that the lifestyle of a normal human being has had to change ."]]}
+{"gec_outputs": [["These changes and damages have also increased the chances of contacting more illness as we age ."]]}
+{"gec_outputs": [["Therefore , the challenge is that we need to maintain or improve the state of living is huge ."]]}
+{"gec_outputs": [["The ability to eliminate illness is considered as an achievement as this proves that the ability of the human race to research and develop the medical abilities to cure and eliminate the illnesses that are able to take the life of a human at a earlier age ."]]}
+{"gec_outputs": [["This ability was not seen 40 years ago when the technology advances were not as good as now ."]]}
+{"gec_outputs": [["All this technology advancement has also helped to improve the lives of the human race in terms of improving the lifestyle , environment and medical ability ."]]}
+{"gec_outputs": [["Therefore , achieving such a great feat in these areas is considered an achievement because human lives have been improved and extended ."]]}
+{"gec_outputs": [["Moreover , achieving the near impossible to eliminate all illness , such as cancer , would be the greatest achievement for the human race ."]]}
+{"gec_outputs": [["This step will take a long time to research to make it possible ."]]}
+{"gec_outputs": [["Much more could be done to reach the stage of extending the lifespan of human beings ."]]}
+{"gec_outputs": [["In conclusion , we can see that in order to solve challenges such as the amount of illness that can grow over the years , due to the damage to our living environment and stresses that are always building in city life ."]]}
+{"gec_outputs": [["There has always been a solution because of the achievements that have been done by humans who used their time to improve our basic needs and life for the living and extend our life expectancy ."]]}
+{"gec_outputs": [["Rising life expectancy can be considered both a challenge and an achievement ."]]}
+{"gec_outputs": [["We should separate it into two aspects ."]]}
+{"gec_outputs": [["The first one is that rising life expectancy can be considered a challenge ."]]}
+{"gec_outputs": [["The second one is that rising life expectancy can also be considered an achievement ."]]}
+{"gec_outputs": [["They are not contradicting each other ."]]}
+{"gec_outputs": [["In my opinion , the challenge interception is to make comparison in the cross direction , which is comparing the current situation with the assumed situation ."]]}
+{"gec_outputs": [["On the other hand , the achievement perceiving is to make comparison in the wire direction , which is comparing the current situation with the historical situation in the past ."]]}
+{"gec_outputs": [["So , in the following paragraphs , I will clarify these two different views of rising life expectancy ."]]}
+{"gec_outputs": [["For the first part , rising life expectancy is a challenge ."]]}
+{"gec_outputs": [["We can imagine that when the life expectancy raises , this will mean that the average age of the population nationally or globally is also rising ."]]}
+{"gec_outputs": [["The number of the older people will increase to make the average life expectancy higher ."]]}
+{"gec_outputs": [["For these older people , society needs manpower and all kinds of resources to provide a better life for them ."]]}
+{"gec_outputs": [["Sometimes , older people need more manpower and resources than normal young people ."]]}
+{"gec_outputs": [["Moreover , these older people usually contribute less or have nearly no productivity in society ."]]}
+{"gec_outputs": [["We have to say that older people are becoming a blackhole for the entire society in terms of manpower and resources ."]]}
+{"gec_outputs": [["So the dilemma occurs when there are more people who have a higher age ."]]}
+{"gec_outputs": [["Not only the families of the old people , but also the government needs to put a lot of effort into handling such a situation ."]]}
+{"gec_outputs": [["This is the interpretation of the challenge of rising life expectancy ."]]}
+{"gec_outputs": [["For the second part , rising life expectancy is also an achievement ."]]}
+{"gec_outputs": [["The achievement is in comparison with history in the past ."]]}
+{"gec_outputs": [["In ancient times , due to the lower development of science and technology , people had less medicine or medical equipment and took less care of the healthy ."]]}
+{"gec_outputs": [["Hence , people died of various diseases ."]]}
+{"gec_outputs": [["On the other hand , there were not sufficient materials or ways to improve people 's daily life ."]]}
+{"gec_outputs": [["People did not know how to protect their tooth from becoming decayed ."]]}
+{"gec_outputs": [["These small things made the quality of people 's life less enjoyable than today ."]]}
+{"gec_outputs": [["A bad mood can not give them a longer life ."]]}
+{"gec_outputs": [["Due to all these reasons , people died quite early , which resulted in a lower life expectancy ."]]}
+{"gec_outputs": [["So , a longer life expectancy indicates how well people live ."]]}
+{"gec_outputs": [["In that sense , rising life expectancies can be considered as an achievement ."]]}
+{"gec_outputs": [["From these points , we should be glad that we can live longer and enjoy a better living environment ."]]}
+{"gec_outputs": [["Besides , we should not forget the responsibility on our shoulders , the older people ."]]}
+{"gec_outputs": [["We should try our best to take care of them as if we are the ones who are old ."]]}
+{"gec_outputs": [["In such a situation , society can develop in a harmonious and healthy way ."]]}
+{"gec_outputs": [["We just take the challenge and enjoy the achievement ."]]}
+{"gec_outputs": [["As the world is at the turning point of entering into a stage where people are constantly and notably older than before , there is a need to shed light on how to make life easier , more comfortable as well as healthier more healthier ."]]}
+{"gec_outputs": [["Life expectancy is a figure that reveals the average lifetime and can be used as an indicator to measure up to what degree there is a population ageing problem ."]]}
+{"gec_outputs": [["However , there are situations where we have to consider rising life expectancy as a challenge and an achievement ."]]}
+{"gec_outputs": [["Rising life expectancy is a challenge in the sense that it is highly reliant on the development of medicine ."]]}
+{"gec_outputs": [["There are a series of diseases that hinder longevity ."]]}
+{"gec_outputs": [["Cancers , a major group of killing diseases , is often beyond current medicine to get fully cured ."]]}
+{"gec_outputs": [["If cancers are discovered too late , one is doomed to death at a later stage ."]]}
+{"gec_outputs": [["Other diseases , such as mental disorders and heart trouble , are also top killers , current medicine does have methods to treat patients , but risks still come along ."]]}
+{"gec_outputs": [["Apart from the diseases themselves , deficiency in medical system coverage and inefficiency during the treatment process can also combine to make lifespan shorter ."]]}
+{"gec_outputs": [["Patients in many developing and less developed countries , especially African countries , are suffering from simple and easy - to - cure diseases such as cold and flu and probably at the end of the day , it becomes the end of their life , although they could have been treated better if they were in a country where the medical system is complete and doctors and nurses are standing by to cure these people ."]]}
+{"gec_outputs": [["To raise life expectancy , one of the questions is how to upgrade the current medical system ."]]}
+{"gec_outputs": [["The government should help encourage breakthroughs as well as a complete medical system ."]]}
+{"gec_outputs": [["Rising life expectancy is also an achievement ."]]}
+{"gec_outputs": [["The development of technology is making our life easier and more comfortable ."]]}
+{"gec_outputs": [["Compared with the world of ancient Rome or China where almost no machines were used , people nowadays are producing batches and batches of merchandise in factories ."]]}
+{"gec_outputs": [["Machines have replaced coolies and heavy labor ."]]}
+{"gec_outputs": [["Cars and trucks have diminished the transit time of long distance shipment ."]]}
+{"gec_outputs": [["As a result , people have more time to enjoy the advantages of modern life ."]]}
+{"gec_outputs": [["One can easily travel to the other half of the globe to see beautiful scenery that one dreams of for a lifetime ."]]}
+{"gec_outputs": [["One can also easily see a deeply loved one through the Internet from miles away ."]]}
+{"gec_outputs": [["More importantly , they can share their ideas of how to keep healthy through the Internet , to make more interested people get involved and find ways to make life longer and more wonderful ."]]}
+{"gec_outputs": [["The development of technology brings people joy and makes things easier and this may be one of the achievements ."]]}
+{"gec_outputs": [["In conclusion , it is delightful to observe the fact that life expectancy is rising , but one must have the idea in mind that a rising life expectancy is never easy ."]]}
+{"gec_outputs": [["There are a series of problems that hinder longevity such as current medicine ."]]}
+{"gec_outputs": [["But data show the rise in life expectancy is indeed an achievement that reveals the improvement of modern life ."]]}
+{"gec_outputs": [["As for the future , who knows ?"]]}
+{"gec_outputs": [["We are on the right track ."]]}
+{"gec_outputs": [["Probably the next breakthrough is around the corner in the near future ."]]}
+{"gec_outputs": [["In recents decedes , it is a trend that people are able to live a longer life ."]]}
+{"gec_outputs": [["This is due to the improvements and breakthroughs in the realm of medicine and people 's living condition ."]]}
+{"gec_outputs": [["While it is applaudable that people have achieved great success in prolonging their lives , there are social challenges posed by rising life expectancy ."]]}
+{"gec_outputs": [["Without a doubt , rising life expectancy is definitely a success in human history as it shows the achievements of the medical field in finding out ways and medicines to treat diseases that were thought to be incurable in the past and providing people with vaccines to prevent diseases ."]]}
+{"gec_outputs": [["The condition of the living environment has also improved that people are able to live in more hyginenic places ."]]}
+{"gec_outputs": [["The improvement in technology also eases people 's lives by replacing all the manual labour with easy and simple machine work ."]]}
+{"gec_outputs": [["Due to the three major factors stated above , people are no longer exposed to disease - breeding living environments , are able to cure diseases considered fatal previously and do not need to do much labourous work ."]]}
+{"gec_outputs": [["Rising life expetancy best proves these improvements and has definitely written a new chapter in the history of human civilisation ."]]}
+{"gec_outputs": [["However , as life expectancy has risen , some social challenges have occurred as well ."]]}
+{"gec_outputs": [["As the aging population grows , the young and more energetic people are subject to supporting more people of old age ."]]}
+{"gec_outputs": [["This creates a huge social burden for them and might cause some of them to leave the country when the burden becomes unbearable ."]]}
+{"gec_outputs": [["This would result in a loss of manpower in the country ."]]}
+{"gec_outputs": [["Another aspect could be that if the young people feel it is hard to feed the old people in their families and themselves , they would choose not to give birth to any child in order to reduce the burdens on themselves ."]]}
+{"gec_outputs": [["This would result in a decrease in birth rate of a country which is a very serious problem , especially in more developed countries as the population has already reached a minimum ."]]}
+{"gec_outputs": [["The government will be burdened by the growing aging population as well because it needs to set aside a great amount of money to provide better welfare of the old people because they are in urgent need of it ."]]}
+{"gec_outputs": [["Less money will be left to develop the country and explore new areas of business ."]]}
+{"gec_outputs": [["This would result in economic retardation and stagnation of a country ."]]}
+{"gec_outputs": [["Afterall , it might seem difficult to handle when the aging population of a country grows , especially the developed countries with a very small population ."]]}
+{"gec_outputs": [["However , when we look at the brighter side of the reality , the rise in life expectancy shows great improvements in various realms and solutions to many problems we had in the past . There is hope that the aging population may transform into a helpful force to the country in the future with the help of better technology and medication ."]]}
+{"gec_outputs": [["Life expectancy can be defined as a desired level of service or better technology to make one 's life more comfortable ."]]}
+{"gec_outputs": [["People in the current era are described as demanding or having a high level of life expectancy in other words ."]]}
+{"gec_outputs": [["They are expecting better medication , healthier food , and a cleaner environment and so on and so forth ."]]}
+{"gec_outputs": [["However , this rising life expectancy has become a challenge and also an achievement in healthy ageing ."]]}
+{"gec_outputs": [["The percentage of elderly is increasing annually according to the United Nations ' projection ."]]}
+{"gec_outputs": [["In other words , there are more elderly who have lower productivity and more medical problems compared to younger people in the global population ."]]}
+{"gec_outputs": [["On the other hand , people demand better quality of service and advanced technology such as the newer I - Pad model ."]]}
+{"gec_outputs": [["In fact , these rising demands require a stronger workforce who is active and more productive than in the past ."]]}
+{"gec_outputs": [["However , the aging population is the opposite phenomenon ."]]}
+{"gec_outputs": [["population leads to a working force composed of a larger percentage of elderly who have lower productivity and are thus unable to meet the expectancy ."]]}
+{"gec_outputs": [["The second life expectancy is increased medical technology and resources ."]]}
+{"gec_outputs": [["An ageing population requires more medical resources since the elderly needs more medical attention ."]]}
+{"gec_outputs": [["However , the health level of the global population shows an increasing trend due to advancing medical technology and it leads to exponential growth in the number of elders worldwide ."]]}
+{"gec_outputs": [["Nevertheless , provision of more medicine and better equipment as well as more medical centres are necessary to accommodate the elderly ."]]}
+{"gec_outputs": [["Another rising life expectancy is a bigger house with a lower price which is desired by the younger generation ."]]}
+{"gec_outputs": [["An ageing population is a consequence of the increasing health level of the population ."]]}
+{"gec_outputs": [["The concurrent result is the increasing size of the population ."]]}
+{"gec_outputs": [["When the elderly live longer , the family size actually increases rather than decreases ."]]}
+{"gec_outputs": [["In addition , the younger generation is to start their own family in their own place rather than staying together with family ."]]}
+{"gec_outputs": [["This phenomenon increases the demand for property and subsequently affects both price and size together ."]]}
+{"gec_outputs": [["An increasing population also leads to problems in food supply ."]]}
+{"gec_outputs": [["If the production of food is showing a lower growth rate compared to the population 's growth rate , the country will end up with insufficient food in the future ."]]}
+{"gec_outputs": [["Rising life expectancy is also an achievement for the governments ."]]}
+{"gec_outputs": [["People expect more on the ground of the current economy , life stability and desire fulfillment ."]]}
+{"gec_outputs": [["For example , one might have liked to have I - Phone 5 in the past but he or she would expect it to have more functions or operate at a faster speed after using it a while ."]]}
+{"gec_outputs": [["Thus , the rising expectancies actually reflect the increasing stability and comfort of people 's life and indirectly reflects the ability of the govenment to provide people with their current comforts , economic status , convenience and others ."]]}
+{"gec_outputs": [["Rising life expectancy is an achievement , but it poses more challenges to the government and people ."]]}
+{"gec_outputs": [["All have to work hard and cooperate to deal with these challenges as a way of meeting expectancies ."]]}
+{"gec_outputs": [["Otherwise , the comfort level of life will be maintained or lowered as time passes and people would have lower their expectation of life ."]]}
+{"gec_outputs": [["People 's average age has become older compared to the past ."]]}
+{"gec_outputs": [["From one perspective , it shows that medical technology has improved over the years as people now are able to treat different diseases ."]]}
+{"gec_outputs": [["From another perspective , there are more and more elderly people but fewer younger ones ; the increase in population age has weakened the labor force and so on ."]]}
+{"gec_outputs": [["In my opinion , the increase in population age is more a challenge than an achievement ."]]}
+{"gec_outputs": [["Firstly , population ageing can be definitely viewed as an improvement of human culture and technology ."]]}
+{"gec_outputs": [["comparing the technology today and the past , we can see that a lot of diseases are treatable . The number of people who died because of diseases that are not treatable has decreased ."]]}
+{"gec_outputs": [["The fast development of medicine and technological products has made people 's lives much healthier compared to the past ."]]}
+{"gec_outputs": [["Moreover , the advanced technologies have helped people to overcome different natural disasters ."]]}
+{"gec_outputs": [["People are able to predict some disasters like earthquakes and prevent them beforehand ."]]}
+{"gec_outputs": [["Although the increase in population age shows that people have advanced knowledge and technologies , it should be considered as a challenge more than an achievement ."]]}
+{"gec_outputs": [["The technology is always improving and it never stops , and the lifespan of people is getting longer as well ."]]}
+{"gec_outputs": [["Thus , we should not compare now with the past because we need to worry about future problems that could be by this situation ."]]}
+{"gec_outputs": [["The first challenge is the decreasing number of newborns ."]]}
+{"gec_outputs": [["As population ageing is increasing , as people are getting old , they need to be cared for by others and are not able to contribute as much as when they were young ."]]}
+{"gec_outputs": [["If the number of old people is too large and there is a smaller number of younger people , it will affect the growth of the whole society as the young workers are fewer , and the productivity and technological improvements will be fewer ."]]}
+{"gec_outputs": [["At the same time , more people are needed to take care of the old ones , which gives the younger generation extra work ."]]}
+{"gec_outputs": [["The second challenge will be the shortage of natural resources ."]]}
+{"gec_outputs": [["We know that as the population of humans continues to grow year by year , we are using more non - recoverable natural resources , such as oil , in everyday life . People . such as 's life and technological improvement are not able to continue without the usage of oil ."]]}
+{"gec_outputs": [["However , this natural resource is not renewable ."]]}
+{"gec_outputs": [["We do not think enough about our offspring ."]]}
+{"gec_outputs": [["Ever imagine the day that no natural resources are left ? What would be the life of our next generation ?"]]}
+{"gec_outputs": [["The increase in population means that more natural resources are needed and people have to think of some ideas like to prevent using too many natural resources ."]]}
+{"gec_outputs": [["In conclusion , the increase in population age shows both the human technological achievement and new challenges like a smaller young generation ."]]}
+{"gec_outputs": [["We have to think more about our future generations , be aware of the problems that increased lifespan has brought to us and come up with ideas to solve these challenges ."]]}
+{"gec_outputs": [["Soon after coming into the industrial age , humans released a weapon and starts a new technological era ."]]}
+{"gec_outputs": [["Improvement in engineering and medical science had been valued since humanism arises ."]]}
+{"gec_outputs": [["Studies have shown that the average life span of humans has been rising gradually over the years , in the sense that the global improvement of technology in medicine has helped humans to live longer and enjoy the world even more ."]]}
+{"gec_outputs": [["In spite of this , people should be aware that the power of science is not almighty , life will still go to the last page without revelation ."]]}
+{"gec_outputs": [["Since not all human beings are going to be a doctor , people rely on the treatment skills of doctors and hence , they start to ignore the maintenance of their own health ."]]}
+{"gec_outputs": [["It is impossible to doubt that medical technology has improved day by day ."]]}
+{"gec_outputs": [["In the past , when people were injured or became sick , there was no guarantee that the people would get good treatment and fully recover ; therefore , people could easily die if infected with a minor disease ."]]}
+{"gec_outputs": [["With the advanced medical skill we have nowadays , humans live longer and hence , there is a great increase in population ."]]}
+{"gec_outputs": [["It would be great if life expectancy keep rising up day by day , but in reality , it does not seem to be so ideal ."]]}
+{"gec_outputs": [["Firstly , although treatment is reliable , people would still need to have awareness of their own health condition ."]]}
+{"gec_outputs": [["There are millions of doctors all over the world , but there are billions of patients as well ."]]}
+{"gec_outputs": [["Nowadays , the pressure from the head of a company towards the employees has caused people to fully concentrate on their jobs and because of that , people have started to ignore their health condition and rely on treatment and supplements ."]]}
+{"gec_outputs": [["Pressure can really cause sickness just like viruses and germs and it is more like a chronic disease ."]]}
+{"gec_outputs": [["It is like a key that opens up the gate of the human body defense system and provides a cleared path for other diseases to attack ."]]}
+{"gec_outputs": [["Therefore , when the era improves itself , disease does too ."]]}
+{"gec_outputs": [["It is a big challenge to eliminate all the disease in the world and keep growing as people do sicken every moment ."]]}
+{"gec_outputs": [["Nevertheless , humans still need an improvement ."]]}
+{"gec_outputs": [["Compared to the past , it is a big step forward in the development of medical science ."]]}
+{"gec_outputs": [["In the era of Warring States , warriors lost their arms or legs or even all of them ."]]}
+{"gec_outputs": [["For the rest of their life , they had to rely on their family and financial support from others ."]]}
+{"gec_outputs": [["Their lives had become meaningless and a lot of them chose suicide to avoid giving trouble to others ."]]}
+{"gec_outputs": [["Nowadays , things have changed ."]]}
+{"gec_outputs": [["Disabled people walk with artificial legs , man can get pregnant , even the sex of humans can be changed just by doing simple surgery ."]]}
+{"gec_outputs": [["It is really a great achievement in the enhancement of technology which should be recorded in history ."]]}
+{"gec_outputs": [["In conclusion , the reason why population ageing is increasing majority is due to the great improvement of global medical science ."]]}
+{"gec_outputs": [["It is a challenge but also an achievement ."]]}
+{"gec_outputs": [["Population ageing is a global phenomenon that has arisen in both developed and developing countries ."]]}
+{"gec_outputs": [["The average life span rose from 45 years old in the 1920s to over 65 years old in the 2010s ."]]}
+{"gec_outputs": [["In a social science report last year , this number could further increase to 90 years old in the 2080s due to advanced medical technology and better living standards ."]]}
+{"gec_outputs": [["Population ageing means that there are more retired old people in society and the portion of working adults is reduced ."]]}
+{"gec_outputs": [["It may incur a higher social cost burden which further leads to a greater allocation of funds in the government 's yearly budget ."]]}
+{"gec_outputs": [["Medical expenses , and accommodation are the costs which directly involved old people ."]]}
+{"gec_outputs": [["It is the responsibility of the government to ensure the financial security of old people ."]]}
+{"gec_outputs": [["Otherwise , there would be more and more people staying on the street and destroying the good views of the Garden City ."]]}
+{"gec_outputs": [["In addition , it is also a challenge for the government , families and parents to educate their children about filial morality ."]]}
+{"gec_outputs": [["With filial morality , most of the children will take care of their parents after the parents ' retirement ."]]}
+{"gec_outputs": [["It prevents children from sending them to an old folk 's home and not visiting them at all ."]]}
+{"gec_outputs": [["We also do not want to see the worst outcome that parents are dropped by children in the street and let them die by themselves ."]]}
+{"gec_outputs": [["It may be a challenge but also a golden opportunity to educate children properly to prevent undesired outcomes ."]]}
+{"gec_outputs": [["Life expectancy has risen significantly from the past to today all over the whole world ."]]}
+{"gec_outputs": [["It is the outcome of advanced medical technology , changing lifestyles and higher living standards ."]]}
+{"gec_outputs": [["However , among the under - developed countries , developing countries and developed countries , we found that there is the longest life span in the developed countries , followed by the developing countries , and the shortest life span in the under - developed countries ."]]}
+{"gec_outputs": [["This observation means that the more developed the country , the longer the life span its citizens ."]]}
+{"gec_outputs": [["In other words , it also can be said that it is an achievement to have an ageing population ."]]}
+{"gec_outputs": [["People should be proud to have an ageing population because it is hard to achieve unless there are advanced medical technology and higher living standards ."]]}
+{"gec_outputs": [["Besides that , an ageing population has an important and essential thing that we can not buy in cash ."]]}
+{"gec_outputs": [["It is experience over ."]]}
+{"gec_outputs": [["At work , supervisors usually ask the so - called \" old staff ' to lead the newbies ."]]}
+{"gec_outputs": [["This shows the importance of experience ."]]}
+{"gec_outputs": [["With the existance of experience , we can do the work more quickly without sacrificing standards and quality ."]]}
+{"gec_outputs": [["It may lead to a more efficient decision and provide more sales and revenue for the company ."]]}
+{"gec_outputs": [["The economy of country is boosted and could further lead to new development and raise our standard of living ."]]}
+{"gec_outputs": [["In conclusion , there are challenges as well as achievement in rising life expectancy which we can not ignore ."]]}
+{"gec_outputs": [["Therefore , we must encounter the challenges and be proud of the achievement to create a new life for our next generation ."]]}
+{"gec_outputs": [["In 1712 , Watt renovated the steam machine which increased the efficiency of the fuel ."]]}
+{"gec_outputs": [["This activity can be marked as the start of the first technology revolution ."]]}
+{"gec_outputs": [["As technology has developed faster and faster over 301 years , people not only enjoy more and more materials but also more and more health care which provides convenience in our daily life ."]]}
+{"gec_outputs": [["This significantly raised people 's average life expectancy ."]]}
+{"gec_outputs": [["However , as the life expectancy of people rises , the population ageing problem becomes more and more severe as a global phenomenon ."]]}
+{"gec_outputs": [["Studies have shown that the current average life span is over 65 ."]]}
+{"gec_outputs": [["Projections of the United Nations indicate that the population aged 60 or over in developed and developing countries is increasing at 2 % to 3 % annually ."]]}
+{"gec_outputs": [["As the rise in life expectancy can be interpreted as a measure standard of the pace of technology development , it can be seen as an achievement of human beings ."]]}
+{"gec_outputs": [["However , as energy and resources are used up , more and more adult people without sufficient power to produce crowd on earth will aggravate the ageing problem , so the rise in life expectancy can also be seen as a challenge ."]]}
+{"gec_outputs": [["As we are humans , who are different from other animals , we have some basic rights like the right to privacy , the right to life , the right to have a family and so on ."]]}
+{"gec_outputs": [["Among these basic rights , the most important one is the right to life ."]]}
+{"gec_outputs": [["During the less developed times , due to disasters like droughts , floods or severe contagious diseases like the Black Death , people at that time could lose their property and lives easily since they did not have enough power to protect themselves and restore their life in a short time ."]]}
+{"gec_outputs": [["However , as technology has developed , it has increased people 's mobility and productivity as well as life expectancy ."]]}
+{"gec_outputs": [["As we can use resources with maximum efficiency , we can enjoy more and more life material then at any time of human society ."]]}
+{"gec_outputs": [["Even when disaster comes , we can restore the order of our life in a relatively short time compared to before ."]]}
+{"gec_outputs": [["For example , the tsunami that hit Tohoku of Japan in 2011 was \" the toughest and the most difficult crisis for Japan in the 65 years after the end of World War II \""]]}
+{"gec_outputs": [["( CNN , 2011 ) . However , only one year has passed and most of the survivors have come back to their normal lives although with sad memories ."]]}
+{"gec_outputs": [["This was not imaginable during less developed times ."]]}
+{"gec_outputs": [["With the strong support of technology , the rise in life expectancy can be seen as an achievement to the development of our human society ."]]}
+{"gec_outputs": [["However , along with the increase of life expectancy , ageing problems have become more and more severe ."]]}
+{"gec_outputs": [["Two of the most important causes of the ageing problem are increasing longevity and declining fertility ."]]}
+{"gec_outputs": [["The increasing longevity is due to the fast development of society as well as stress ."]]}
+{"gec_outputs": [["The increasing pressure will lead to declining fertility ."]]}
+{"gec_outputs": [["As people who are incapable of production become more and more , our society could follow a downward trend ."]]}
+{"gec_outputs": [["Moreover , as we use up more and more resources , what we have left may not be enough for us to live on if we do not have enough human resources to research and develop new technology ."]]}
+{"gec_outputs": [["Therefore , the increase in life expectancy is also a great challenge ."]]}
+{"gec_outputs": [["As I have mentioned above , the increase in life expectancy is an achievement as well as a challenge ."]]}
+{"gec_outputs": [["In the modern world , many global issues have appeared like global warming , the concept of earth village and population ."]]}
+{"gec_outputs": [["Nowadays , population aging has become a problem , especially in the developed countries ."]]}
+{"gec_outputs": [["Now in Singapore , we can feel that there are more old people than young people if you go to Chinatown ."]]}
+{"gec_outputs": [["Population ageing has also brought us debate on life expectancy . It is challenging but also an achievement ."]]}
+{"gec_outputs": [["In the first place , rising life expectancy could cause resource challenges ."]]}
+{"gec_outputs": [["In some very small and developed regions and countries like Singapore and Hong Kong , the resources are very limited , especially land ."]]}
+{"gec_outputs": [["Because the land is limited , the average land for one person is very small already ."]]}
+{"gec_outputs": [["Some years , there is a report on Hong Kong citizens ' living situation , in a small room there are eight people . They can not do anything in the room except sleep sleep and the air in the room is very bad ."]]}
+{"gec_outputs": [["So rising life expectancy will make the world population larger and more people would share the limited resources ."]]}
+{"gec_outputs": [["In economics , we can use GDP to explain the challenge . If GDP is low , it shows that most of the people are living a hard life . Quality of life is bad , then it will cause terrible social problems and at last , it will cause social disturbance ."]]}
+{"gec_outputs": [["The reason why it will happen is because people have violated natural regulation ."]]}
+{"gec_outputs": [["On the other hand , rising life expectancy could bring some achievements ."]]}
+{"gec_outputs": [["People 's quality of life has been better now . In order to continue improving , people have begun to consider how to improve their life ."]]}
+{"gec_outputs": [["Because life and health are most significant , people have their own reasons to hope to live longer ."]]}
+{"gec_outputs": [["In medicine , people have done a lot of research in life science ."]]}
+{"gec_outputs": [["Also people have begun to realize the importance of the environment and the need to protect people from harmful air ."]]}
+{"gec_outputs": [["So according to humanism , people should make a contribution to improving human life . people should consider feelings because one day when they will be becoming older and older . So , respecting life should be considered carefully ."]]}
+{"gec_outputs": [["In addition , now there is a contradiction in rising life expectancy ; it will lead to a resource problem ."]]}
+{"gec_outputs": [["However , based on humanism , humans are different from the animals . People should respect all life ."]]}
+{"gec_outputs": [["In my opinion , I think we should study balance as well . On one side , we should continue to make efforts to improve the human life . On the other side , we should consider using asking some sick old men whether they want to take euthanasia ."]]}
+{"gec_outputs": [["In summary , we should respect all life and also help people to live longer ."]]}
+{"gec_outputs": [["In conclusion , although the global aging issue has become more serious for human development , if we can balance and understand why we live ."]]}
+{"gec_outputs": [["Then try to invent new energy and legitimately control the population birth rate , then developing medical treatment and paying enough attention , we have reasons to trust , population aging will not be a problem at all ."]]}
+{"gec_outputs": [["Population ageing : A more and more attention - getting topic"]]}
+{"gec_outputs": [["Nowadays , population aging has become a more global phenomenon ."]]}
+{"gec_outputs": [["Subsequently , a lot of problems regarding to it are arising ."]]}
+{"gec_outputs": [["Due to the increase of life span and the shrinking of birth rate , the number of elderly is becoming larger and larger ."]]}
+{"gec_outputs": [["As our society develops , people have a much higher living standard , which will reduce the chance of getting disease ."]]}
+{"gec_outputs": [["Besides , with the development of the technology , medical therapy has also had tremendous progress ."]]}
+{"gec_outputs": [["Many diseases which were incurable in the past can be cured now ."]]}
+{"gec_outputs": [["Therefore , the patient will have a bigger chance to be cured and survive ."]]}
+{"gec_outputs": [["Both of the two reasons will decrease the number of dead people annually ."]]}
+{"gec_outputs": [["On the other hand , the birth rate in many countries keeps decreasing ; each figure is the lowest record compared to the previous figure ."]]}
+{"gec_outputs": [["Maybe , it is because modern society has become more and more competitive ; parents are paying much attention and importance to their careers ."]]}
+{"gec_outputs": [["They do not want to bother to spend so much time in raising and nurturing children ."]]}
+{"gec_outputs": [["Maybe that is one reason for the decrease in the birth rate ."]]}
+{"gec_outputs": [["The fact is that the"]]}
+{"gec_outputs": [["A survey evidently shows that big achievement has been made in the medical area and people 's living standard has improved ."]]}
+{"gec_outputs": [["It also indicates that the economy has dramatically grown ."]]}
+{"gec_outputs": [["Yet , do not be confused by this superficial amount and achievement ."]]}
+{"gec_outputs": [["The issue facing us is more challenging and tricky ."]]}
+{"gec_outputs": [["First , if the older people increase , there will be a smaller workforce that can support society ."]]}
+{"gec_outputs": [["However , an ageing population will also increase many kinds of other expenditure ."]]}
+{"gec_outputs": [["The most important part is health care and old - age pensions ."]]}
+{"gec_outputs": [["As elderly people , they need more money for health care than younger people ."]]}
+{"gec_outputs": [["will also have a bigger amount of pension expenditure ."]]}
+{"gec_outputs": [["Secondly , for older people , more facilities and service for them will need to be provided ."]]}
+{"gec_outputs": [["So more manpower will be employed , which reduces labour in other areas ."]]}
+{"gec_outputs": [["Of course , more money will be spent ."]]}
+{"gec_outputs": [["To pay this extra money , the government will place higher taxes on other people ."]]}
+{"gec_outputs": [["Thirdly , compared to young people , the security of the elderly is more necessary ."]]}
+{"gec_outputs": [["Elderly people 's ability to move and act is much lower ."]]}
+{"gec_outputs": [["They will be more vulnerable to be hurt or get some injures ."]]}
+{"gec_outputs": [["Therefore , some measurement and education about this should be taken by the government and the surrounding people to ensure the security of the old people ."]]}
+{"gec_outputs": [["To conclude , the population ageing phenomenon indeed shows our big achievement in economics , medical skills and living standard ."]]}
+{"gec_outputs": [["Nonetheless , the issues it brings out are more worthy to be considered ."]]}
+{"gec_outputs": [["More elderly people will bring a very extra burden to society and government ."]]}
+{"gec_outputs": [["More facilities and service will be needed to fulfill these requirements ."]]}
+{"gec_outputs": [["Definitely , we should perform these necessary duties very responsibly and carefully ."]]}
+{"gec_outputs": [["Whereas , for the sustainable development of the country and the earth , some measurements and policies should be carried out to control and change this phenomenon ."]]}
+{"gec_outputs": [["Rising life expectancy is an achievement because it is evidence of progress in modern medical technology and it is a challenge because it can incur the problem of a too small workforce or too large population ."]]}
+{"gec_outputs": [["It is natural that rising life expectancy is regarded as an achievement ."]]}
+{"gec_outputs": [["The goal of every species of living things is reproducing to increase the quantity of their species ."]]}
+{"gec_outputs": [["Humankind is not an exception ."]]}
+{"gec_outputs": [["People with rising life expectancy would ensure a large population and more variation in human beings ."]]}
+{"gec_outputs": [["It is more secure for us because in potential sense we think with longer life expectancy it is harder for people to die out ."]]}
+{"gec_outputs": [["Rising life expectancy is also evidence of progress in modern medical technology ."]]}
+{"gec_outputs": [["For ancient people , it was miraculous to achieve 70 years old , but now it is normal ."]]}
+{"gec_outputs": [["Rising life expectancy can bring us a more skilled workforce because we can delay the retirement time to extend the working years for each person ."]]}
+{"gec_outputs": [["A longer working period means old people who are more skilled do not need to retire and inexperienced workers will not need to take over ."]]}
+{"gec_outputs": [["Thus , it is more efficient to keep more skilled people for long time rather than training inexperienced workers ."]]}
+{"gec_outputs": [["Rising life expectancy can be a challenge ."]]}
+{"gec_outputs": [["There are two possibilities ."]]}
+{"gec_outputs": [["On the one hand , if there are fewer young people and more old people , a smaller workforce problem will arise ."]]}
+{"gec_outputs": [["On the other hand , if there are enough young people , then young people with rising life expectancy will cause a larger population ."]]}
+{"gec_outputs": [["We talk about the first possibility ."]]}
+{"gec_outputs": [["If there are fewer young people and more old people , as in both Singapore and China , when the elderly retire , there will not be enough young people who can fill the new available positions ."]]}
+{"gec_outputs": [["Thus , there will be too few in the labor force , which will lead to a decreasing rate of development of the country ."]]}
+{"gec_outputs": [["Many factories could be deserted and many companies could go bankrupt , and thus people 's life condition will definitely get worse ."]]}
+{"gec_outputs": [["The past 30 - year rapid development of China is connected with a large population , but due to the \" only child \" policy , we will have no benefits from a large population in the future ."]]}
+{"gec_outputs": [["With a low birth rate , Singapore is bringing in foreigners to maintain the population to maintain the efficiency and development of the country ."]]}
+{"gec_outputs": [["If there are more young people , then there would be even more elderly with rising life expectancy in the future . If"]]}
+{"gec_outputs": [["The population is large while resources are limited , many problems will incur such as environmental problems and inequality among people ."]]}
+{"gec_outputs": [["Expansion of population can not continue like that because resources are limited , and we will end up dying out after using up all resources ."]]}
+{"gec_outputs": [["To sum up , with rising life expectancy , there exist both achievement and challenge ."]]}
+{"gec_outputs": [["It is progress of human beings that we control the world and maintain our population with longer life expectancy , but it also is a potential crisis for both nations or human beings ."]]}
+{"gec_outputs": [["We can either step back to maintain the population with some method , or step forward to search for more resources in outer space ."]]}
+{"gec_outputs": [["Population ageing is a phenomenon observed exclusively in advanced civilizations . It requires at least three conditions to happen : an advanced health care system , reduced hazards from the environment and ubiquitous good will for senior citizens ."]]}
+{"gec_outputs": [["However , when it happens , it is hard to deny that it brings problems such as increased expenses and a reduced labor society ."]]}
+{"gec_outputs": [["If a country can bear an ageing population , it is a thing that the country can be proud of ."]]}
+{"gec_outputs": [["In the first place , it must have achieved an advanced health care system ."]]}
+{"gec_outputs": [["The ageing problem is in essence a problem of worsening bodies ."]]}
+{"gec_outputs": [["With increasing age , people become more prone to disease and injury , and have more difficulty recovering ."]]}
+{"gec_outputs": [["Without an advanced health care system , aged people have a higher rate of death ."]]}
+{"gec_outputs": [["In fact , this was the major limitation of people 's average life span in the past ."]]}
+{"gec_outputs": [["With advanced medical technology , not only can many diseases be cured , but also people know how to keep themselves healthy ."]]}
+{"gec_outputs": [["If a developed health care system is increasing the positive side , it would be also helpful to reduce the negative side , which includes reducing hazards in the environment ."]]}
+{"gec_outputs": [["Health care by far is the most expensive to carry out ."]]}
+{"gec_outputs": [["If the environment is too dangerous to live in , there would not be sufficient medical resources for usage ."]]}
+{"gec_outputs": [["Such environmental hazards come from various aspects ."]]}
+{"gec_outputs": [["A major source of the hazards is pollution ."]]}
+{"gec_outputs": [["A place with heavily polluted air and water is by no means a good habitat and will bring a lot of health problems for its residents , among which aged people and children will be harmed the most ."]]}
+{"gec_outputs": [["Only if the city is safe and comfortable can people live a longer and happier life ."]]}
+{"gec_outputs": [["If the above two aspects are described as the hardware of the system , they do require software to function , which is ubiquitous good will for senior citizens ."]]}
+{"gec_outputs": [["When people become old , most of them join the weak group of citizens who have to receive care from other people ."]]}
+{"gec_outputs": [["If society has the most advanced medical science and the best environment , but does not grant access to them for its senior citizens , it just does not help ."]]}
+{"gec_outputs": [["And if people in society do not want to care for their elderly , nothing will be done for them ."]]}
+{"gec_outputs": [["Only when there is ubiquitous good will for senior citizens can aged people live well , and that is a thing to be proud of ."]]}
+{"gec_outputs": [["With the glory , there come problems ."]]}
+{"gec_outputs": [["To take care of old people , facillities such as nursing homes need to be built , which add on to the expenses of society ."]]}
+{"gec_outputs": [["An even larger share of the old people expense lies in health care ."]]}
+{"gec_outputs": [["In addition , old people are weakened in many aspects , thus they are usually not considered as workers ."]]}
+{"gec_outputs": [["When the percentage of old people grows larger in the population , the workers are considered to become fewer and each worker needs to pay more for the welfare of the old people ."]]}
+{"gec_outputs": [["In summary , the rising average life span is both a challenge and an achievement because it means an increase in expenses and the advancement of society , including , at least , an advanced health care system , reduced hazards in the environment and ubiquitous good will for senior citizens , at the same time ."]]}
+{"gec_outputs": [["\" The weak is meat and the strong eats it \" does not apply nowadays ."]]}
+{"gec_outputs": [["Advanced technology saves lots of lives which should never have come to this world or should pass away ."]]}
+{"gec_outputs": [["For people , this is an achievement , but for nature , it changes its rules and cycles , which is a big challenge faced by human beings ."]]}
+{"gec_outputs": [["If anyone has ever read any fiction or stories written before the 18th century , it is very hard to find any character in those stories who lived longer than 80 years old ."]]}
+{"gec_outputs": [["They may die from hunger , die from illness or just went to bed as usual but never woke again ."]]}
+{"gec_outputs": [["In China , there is a famous saying that there are things that should be celebrated , one is red and one is white ."]]}
+{"gec_outputs": [["Here , red things mean marriage and white means someone passing away ."]]}
+{"gec_outputs": [["The first time I read this saying I was confused why someone passing away is a good thing that people should celebrate and later I was told that in the past , it was hard to live longer than 60 years old and even though you are very lucky to live longer than 60 years old , you will suffer a lot from illness or sadness for your younger relatives passing away , so people think it is worth celebrating since the old person will not suffer any longer ."]]}
+{"gec_outputs": [["It is very hard to understand such a feeling that people felt in the past ."]]}
+{"gec_outputs": [["Now , technology and science has developed at an unbelievably fast pace ."]]}
+{"gec_outputs": [["There is lots of illness that was thought incurable in the past that has vanished in the world ."]]}
+{"gec_outputs": [["Even people with cancer , which is still hard to cure , now have more chances to survive and have a longer time to live ."]]}
+{"gec_outputs": [["Besides illness , the improvement of technology generates more food both in quantity and in quality ."]]}
+{"gec_outputs": [["At the same time , it also frees a great amount of labor ."]]}
+{"gec_outputs": [["Now people not only can have food to survive but also enjoy high - quality food and even pursuing tasty and luxury food ."]]}
+{"gec_outputs": [["It is a break - through in technology and science , and an outstanding achievement of human wisdom ."]]}
+{"gec_outputs": [["Making use of our smart brain to improve our quality of life and give us more time to enjoy the life , it sounds perfect , but we must face reality -- there is no Utopia ."]]}
+{"gec_outputs": [["Before people find another planet to live on , the earth is the only habitat for us , and has limited capacity to support life . It limits the quantity of people that can live here ."]]}
+{"gec_outputs": [["People 's rising lifespan means that the time of the cycle of generation rises ."]]}
+{"gec_outputs": [["Furthermore , thanks to the development of technology , that the birth rate is increasing while the death rate is decreasing , population ageing is accelerating and increasing ."]]}
+{"gec_outputs": [["To our disappointment , now the technology is not so advanced that it can support all human beings with limited resources ."]]}
+{"gec_outputs": [["Moreover , the global population aging means that the total amount and quality of labor is decreasing ."]]}
+{"gec_outputs": [["Before robots can fully replace labor , the decrease in generating power indicates less creativity and fewer goods available for us to use ."]]}
+{"gec_outputs": [["It is a challenge that human beings can not avoid and must solve ."]]}
+{"gec_outputs": [["The only way is to develop technology but the chance to develop is based on people 's wisdom and creativity , which is decreasing due to population aging ."]]}
+{"gec_outputs": [["The world is always fair to us ."]]}
+{"gec_outputs": [["While we are celebrating break - throughs on our way to Utopia , we are facing a new challenge ."]]}
+{"gec_outputs": [["We can not give up what we achieved in the past and follow the natural way to die and be reborn ."]]}
+{"gec_outputs": [["Therefore , the only way available for us to destroy such a balance is accelerating the progress of development in order to increase the capacity of our planet ."]]}
+{"gec_outputs": [["With the world is becoming more and more advanced , people are leading a more and more comfortable life ."]]}
+{"gec_outputs": [["Moreover , life expectancy has also been rising due to the development of the economy ."]]}
+{"gec_outputs": [["However , while we are enjoying the fruits from the development of the economy , we are also facing a global problem --- population ageing ."]]}
+{"gec_outputs": [["There is no doubt that this problem has become more and more serious and has gradually influenced the tendency of the population as well as resource allocation ."]]}
+{"gec_outputs": [["Therefore , rising life expectancy can be considered both a challenge and an achievement ."]]}
+{"gec_outputs": [["On one side , we can not deny that rising life expectancy is a great achievement expectancy ."]]}
+{"gec_outputs": [["The reason why life expectancy have risen is that we are becoming more and more clever due to evolution , and we are becoming richer and richer due to the knowledge we have learned ."]]}
+{"gec_outputs": [["Since we are richer , we have more money to use to live a more comfortable life ."]]}
+{"gec_outputs": [["Therefore , because of the great efforts we have made , we have been living a better life ."]]}
+{"gec_outputs": [["And that is what we are striving for ."]]}
+{"gec_outputs": [["So rising life expectancy can be regarded as proof of what we have done to combat for ourselves ."]]}
+{"gec_outputs": [["On the other side , we have to say that the obvious problems that we are facing are also caused by rising life expectancy ."]]}
+{"gec_outputs": [["Since we have better living circumstances and higher quality of life , we are enjoying a longer life ."]]}
+{"gec_outputs": [["This seems to be gratifying progress at first sight ."]]}
+{"gec_outputs": [["However , during the process of developing our life , we decided to reduce the rapid growth of the population by adopting the measure of controlling birth so that the shortage of source allocation can also be slowed down ."]]}
+{"gec_outputs": [["This also works and we have seen the effect ."]]}
+{"gec_outputs": [["Then there comes a problem ."]]}
+{"gec_outputs": [["Because the birth rate is reduced while the death rate is also reduced , the percentage of the elderly is increased while that of the youth is decreased ."]]}
+{"gec_outputs": [["So the population is getting more and more aged ."]]}
+{"gec_outputs": [["But the primary labor force as well as the work force is from youth ."]]}
+{"gec_outputs": [["That is to say , population aging has aggravated the burden of society ."]]}
+{"gec_outputs": [["Then we can see that rising life expectancy can also be viewed as a challenge for us to face ."]]}
+{"gec_outputs": [["Taken together , we should say that rising life expectancy is two - sided ."]]}
+{"gec_outputs": [["It has been shown that we are leading a better life but we are forced to face the problem of solving population aging ."]]}
+{"gec_outputs": [["However , the achievement that we have made is far more than the problems caused by the challenges ."]]}
+{"gec_outputs": [["The significance of our existence is to lead a meaningful life and fight for the development of our world ."]]}
+{"gec_outputs": [["There is no absolutely perfect way , so we have done a good job on the road ."]]}
+{"gec_outputs": [["Therefore , we need to continue our striving as we try our best to reduce the adverse impact ."]]}
+{"gec_outputs": [["Rising life expectancies is an achievement because it clearly demonstrates that overall quality of life is increasing in both developed and developing countries ."]]}
+{"gec_outputs": [["However , it is also a challenge because it strains both society and the environment ."]]}
+{"gec_outputs": [["It is well - known statistically that , generally , as a country develops life expectancy increases ."]]}
+{"gec_outputs": [["This is the result of a better quality of life ; which is basically sufficient food and clean water , better sanitation and advanced healthcare ."]]}
+{"gec_outputs": [["With sufficient food , children will develop properly into adults ."]]}
+{"gec_outputs": [["Better sanitation will result in fewer deaths by infection and significantly reduce the spread of diseases and viruses ."]]}
+{"gec_outputs": [["Advanced healthcare is also a major factor in prolonging an individual 's existence on earth ."]]}
+{"gec_outputs": [["Examples of how advanced healthcare in the city has raised life expectancy include antibiotics , the cure of poliomyelitis , and better and cleaner surgical procedures ."]]}
+{"gec_outputs": [["All of these are human achievements in their own right that have resulted in rising life expectancy , and hence they also illustrate why rising life expectancy can be considered an achievement ."]]}
+{"gec_outputs": [["It is remarkable that the population aged 60 and over is increasing at 2 % to 3 % annually in developing countries as well ."]]}
+{"gec_outputs": [["It is highly plausible that the reasons for the increase are the same as the developed countries ."]]}
+{"gec_outputs": [["If that is true , it means that human rights and living standards are increasing in developing countries , albeit slowly ."]]}
+{"gec_outputs": [["Fewer famines , better sanitation and more access to healthcare in developing countries will be this century 's greatest achievement as a global society ."]]}
+{"gec_outputs": [["However , an aging population is taxing on a country ."]]}
+{"gec_outputs": [["Although life expectancy may increase significantly , the population 's overall productivity may not increase linearly ."]]}
+{"gec_outputs": [["The elderly will end up putting a burden on the society that they have been contributing to their whole working career ."]]}
+{"gec_outputs": [["With falling birth rates , there will be fewer working adults in society to distribute the workload ."]]}
+{"gec_outputs": [["In addition , an aging population will require more healthcare and treatment because one 's constitution weakens as one ages ."]]}
+{"gec_outputs": [["The challenge is how many lives can the society and community afford to sustain ; and it will only become increasingly difficult to handle ."]]}
+{"gec_outputs": [["Rising life expectancy is also an environmental challenge because a better quality of life requires a lot of energy ."]]}
+{"gec_outputs": [["More food , clean water , better sanitation , and healthcare consume large quantities of energy ."]]}
+{"gec_outputs": [["An example is the modern method of intense farming ."]]}
+{"gec_outputs": [["Large quantities of energy are needed for the pesticides , and to harvest and transport the food produced around the globe ."]]}
+{"gec_outputs": [["If the current quality of life is sustained or increased in order to keep increasing life expectancy , it will continue to have a huge impact on the environment ."]]}
+{"gec_outputs": [["The challenge will be increasing the quality of life while being environmentally sustainable ."]]}
+{"gec_outputs": [["Rising life expectancy can be considered an achievement and a challenge because it is the by - product of rising quality of life , bringing along its glory and its dirty little secrets ."]]}
+{"gec_outputs": [["At the present time , people are more concerned about their health ."]]}
+{"gec_outputs": [["There are better health care systems to let people check their physical condition regularly , and more and more people choose organic food and eat a balanced diet to make themselves healthier ."]]}
+{"gec_outputs": [["As a result , the worldwide now ."]]}
+{"gec_outputs": [["show the"]]}
+{"gec_outputs": [["Rising life expectancy is a big achievement of human beings ."]]}
+{"gec_outputs": [["However , as there are only limited space and resources on earth , rising life expectancy is also a challenge for all people worldwide ."]]}
+{"gec_outputs": [["Rising life expectancy is a technological achievement ."]]}
+{"gec_outputs": [["Back in ancient days when human beings first appeared on the earth , the average life expectancy was less than 20 ."]]}
+{"gec_outputs": [["The reasons were mainly due to the threat of fierce animals like tigers and lions , the lack of food , the lack of hygiene knowledge , and also very importantly , the lack of medicine ."]]}
+{"gec_outputs": [["With the development of society over the past thousands of years , technology has been progressing and concern for health is rising , so that higher life expectancy is achieved ."]]}
+{"gec_outputs": [["With more advanced technology in medicine , more and more diseases can be cured so that much more death is avoided ."]]}
+{"gec_outputs": [["Since people get higher education today , increasing amounts of people have switched from fast food to organic food and have a balanced diet so that their chance of getting cancer is lowered ."]]}
+{"gec_outputs": [["Such a situation is major progress from ancient times and also a big achievement by all human beings ."]]}
+{"gec_outputs": [["However , since space and resources on earth are very limited , higher life expectancy means more people will live on the earth at the same time and more fierce competition for food and space is unavoidable ."]]}
+{"gec_outputs": [["Since there are more people on the earth , more space is needed for people to live in , so some farming land might be turned into buildings to accommodate more people ."]]}
+{"gec_outputs": [["However , the need for food is also increasing , so the competition might become even more frightening ."]]}
+{"gec_outputs": [["Even worse , since people are unsatisfied with the amount of space and food they have , violence might take place more frequently ."]]}
+{"gec_outputs": [["Much violence that has happened in the Middle East is just due to the fight for food and water resources ."]]}
+{"gec_outputs": [["With more people living on the earth , pollution might become even serious , and as a result of pollution , the supply of food and water will decrease , so that a negative loop will occur and the problem becomes even harder to solve ."]]}
+{"gec_outputs": [["In summary , rising life expectancy is both an achievement and a challenge for all human beings ."]]}
+{"gec_outputs": [["Advanced technology has helped us to live longer , but the limited resources on earth is also a big challenge ."]]}
+{"gec_outputs": [["We should do our best to cooperate with each other and live on the same earth in harmony ."]]}
+{"gec_outputs": [["With the development of modern society , people live longer ."]]}
+{"gec_outputs": [["Statistics show that worldwide , the average life expectancy at birth was 66.57 years for 2009 according to CIA World Factbook 2009 ."]]}
+{"gec_outputs": [["In developed countries like Japan and Switzerland , life expectancy can be more than 80 ."]]}
+{"gec_outputs": [["Normally , people will regard an extended life expectancy as an achievement , and usually use such data as a measure of the development of countries ."]]}
+{"gec_outputs": [["However , as the population is ageing , challenges such as increased medical cost and shortage of workers also exist ."]]}
+{"gec_outputs": [["In a nut shell , rising life expectancy can be considered both an achievement and a challenge ."]]}
+{"gec_outputs": [["Indeed , thanks to improved living standards and medical care , countless people 's lives have been extended ."]]}
+{"gec_outputs": [["No doubt life is the most precious treasure of human beings ."]]}
+{"gec_outputs": [["Without life , we have nothing ."]]}
+{"gec_outputs": [["In the long history of evolution , we are always struggling for life against starving and illness ."]]}
+{"gec_outputs": [["In the last two centuries , we humans have made the greatest achievement in developing our society ."]]}
+{"gec_outputs": [["We have modernized and we have gained improved living standards and medical care ."]]}
+{"gec_outputs": [["We are no longer bothered by starving and common illness ."]]}
+{"gec_outputs": [["In ancient times , people may only live for 30 years ; but now , the life expectancy can be into the 80s in many countries ."]]}
+{"gec_outputs": [["With a doubled life time , humans can have a chance to explore the real meaning of life ."]]}
+{"gec_outputs": [["There is a Chinese saying that there is nothing more valuable than to save a man 's life ."]]}
+{"gec_outputs": [["Hence , rising life expectancy no doubt can be considered as a great achievement ."]]}
+{"gec_outputs": [["On the other hand , the aging of the population can also be a challenge to society ."]]}
+{"gec_outputs": [["When people grow old , they will be weak and get sick easily ."]]}
+{"gec_outputs": [["This is a natural law which nobody can violate ."]]}
+{"gec_outputs": [["Hence , when the ratio of the seniors whose age is above 60 reaches some certain point , the challenge to society can not be neglected anymore ."]]}
+{"gec_outputs": [["First , medical costs will rise greatly ."]]}
+{"gec_outputs": [["If the individual or family is to pay the bill , they can be bankrupted because of illness ."]]}
+{"gec_outputs": [["If the medical cost is covered by the government budget , the deficit will be a heavy burden affecting the normal operation of the government ."]]}
+{"gec_outputs": [["Second , the shortage of workers can also endanger the development of society ."]]}
+{"gec_outputs": [["Japanese society is now facing a severe ageing problem , and the path of development is seriously slowed ."]]}
+{"gec_outputs": [["There has been a report estimating that by the year 2060 , only half of the population in Japan will be able to work ."]]}
+{"gec_outputs": [["The same situation is happening around the world ."]]}
+{"gec_outputs": [["Obviously , rising life expectancy should also be considered as a serious challenge ."]]}
+{"gec_outputs": [["To conclude , rising life expectancy must be considered both an achievement and a challenge ."]]}
+{"gec_outputs": [["To extend our life is not only a symbol of our achievement in developing our society , but also a fulfillment of our original dream ."]]}
+{"gec_outputs": [["At the same time , we also need to consider the negative effects brought by the ageing population , and then find proper measures to counter the challenges ."]]}
+{"gec_outputs": [["Population ageing is now a heated topic in individuals ' lives ."]]}
+{"gec_outputs": [["These two words can be seen in various media and assessments of this social trend are of great number ."]]}
+{"gec_outputs": [["When mentioning population ageing , the media always considers it a social problem ."]]}
+{"gec_outputs": [["It is deniable that population ageing can cause a lot of problems , but in the same time , it is also a symbol of improvement ."]]}
+{"gec_outputs": [["Therefore , population ageing should be considered both a challenge and an achievement ."]]}
+{"gec_outputs": [["The following paragraphs have more specific explanations ."]]}
+{"gec_outputs": [["Rising average life expectancy can surely cause some problems ."]]}
+{"gec_outputs": [["Firstly , the aging population is generally of low productivity ."]]}
+{"gec_outputs": [["It is a natural rule that when people grow older , their bodies will be less flexible and brains will operate slower , so they will contribute less to society ."]]}
+{"gec_outputs": [["In addition , elderly people are using the same or even more social resources , as they need more medical support and human help caused by their weaker physical status ."]]}
+{"gec_outputs": [["Furthermore , to support themselves many senior citizens go back to work ."]]}
+{"gec_outputs": [["It will also induce many problems ."]]}
+{"gec_outputs": [["For example , these senior citizens may do the work less efficiently which will lead to a lower effective output ."]]}
+{"gec_outputs": [["To make him or her more competitive so that the elderly person is not beaten by the younger , old people usually accept lower compensation or bonus ."]]}
+{"gec_outputs": [["This may lead to the younger 's lower employment rate and opportunities and thus they have to live with huge pressure and lower standard of living to reduce daily cost ."]]}
+{"gec_outputs": [["Besides , the elderly with less salary also have to lower their standard of living ; both the consequences can cause a decrease in social happiness level and drive the whole society in a less stable situation ."]]}
+{"gec_outputs": [["There are also some older people who a rich life with their deposits and retirement compensation ."]]}
+{"gec_outputs": [["They can live a happy life , but actually to the society as a whole , it is a waste of social resources ."]]}
+{"gec_outputs": [["Also , the growing percentage of older people will cause the maintenance of many traditional thoughts and mindsets which may resist positive social change ."]]}
+{"gec_outputs": [["Above all , population aging will be a great challenge for the world for it drags the development of society ."]]}
+{"gec_outputs": [["However , growing life expectancy is also an achievement to human society ."]]}
+{"gec_outputs": [["Actually , living a longer life needs a lot of conditions to realize ."]]}
+{"gec_outputs": [["There are many factors which will result in the death of people , such as natural disasters , accident , diseases or suicides ."]]}
+{"gec_outputs": [["A long lifespan for the individual is a great achievement which indicates he or she is brave enough to face a life full of problems ."]]}
+{"gec_outputs": [["For the whole society , rising life expectancy are a symbol of more advanced science and technology especially in the medical field , better social environment and a safer world ."]]}
+{"gec_outputs": [["Therefore , humans need to appreciate the longer lifespan and consider it as an achievement ."]]}
+{"gec_outputs": [["Every coin has two sides ."]]}
+{"gec_outputs": [["Rising life expectancy is like a two - sided sword in the modern world ."]]}
+{"gec_outputs": [["It can cause many problems but it also means a lot for the human beings ."]]}
+{"gec_outputs": [["What we can do now is to try hard to solve the problems and in the same time appreciate their great meanings ."]]}
+{"gec_outputs": [["Rising Life Not Only an Achievement , But Also a Challenge"]]}
+{"gec_outputs": [["According to recent research , population ageing is a global phenomenon and the current average life span is over 65 ."]]}
+{"gec_outputs": [["The rising of life expectancy is not only an achievement , but also a great challenge ."]]}
+{"gec_outputs": [["Obviously , rising life expectancy is a mark of our achievements in terms of hospital technology , insurance condition , cultural development , and our social system , which shows the improvement of people 's quality of life ."]]}
+{"gec_outputs": [["Thanks to the development of technology and society , some deadly diseases in the past are curable now , and people are more aware of how to take care of our body ."]]}
+{"gec_outputs": [["This is a great achievement made by a generation ."]]}
+{"gec_outputs": [["At the same time , it is also a great challenge ."]]}
+{"gec_outputs": [["With population ageing and the increasing number of old people , we are facing lots of problems now ."]]}
+{"gec_outputs": [["For individuals , since people 's life expectancy are becoming longer , there will be more troubles for them to take care of themselves , especially for those who live alone or have diseases and are poor ."]]}
+{"gec_outputs": [["For example , it becomes hard for them to earn their living ; they may feel lonely especially if their spouses have died ; they may suffer from all kinds of diseases ."]]}
+{"gec_outputs": [["And they may not get as much attention from their family as before ."]]}
+{"gec_outputs": [["For families , certainly , the burden on young people has become heavier ."]]}
+{"gec_outputs": [["In China , lots of families only have one child ."]]}
+{"gec_outputs": [["That means when the child grows up , he or she needs to take care of both parents ."]]}
+{"gec_outputs": [["One family at least should take care of four old people ."]]}
+{"gec_outputs": [["For a few groups of families , there are even up to eight old people since their grandparents are also living with them ."]]}
+{"gec_outputs": [["Besides financial burdens , they may also need to spend more energy to take care of them ."]]}
+{"gec_outputs": [["These may be too much for these young parents as they still need to look after their own children ."]]}
+{"gec_outputs": [["For society , when the group of old people becomes larger and less people can work for the society , this society may lack of labourers ."]]}
+{"gec_outputs": [["And at the same time , these old people take up a larger portion of resources and budget of this society ."]]}
+{"gec_outputs": [["To some degree , it will delay the economic development of the world ."]]}
+{"gec_outputs": [["Besides , society needs to figure out more policies to secure old people 's lives ."]]}
+{"gec_outputs": [["Also , the population ageing calls for a higher standard of medical treatment and technology and a higher level of civilization of our life ."]]}
+{"gec_outputs": [["If our spiritual aspect of civilization can not match our material aspect , old people will have tough twilight years ."]]}
+{"gec_outputs": [["Now population aging is a trend ."]]}
+{"gec_outputs": [["It is an achievement of our society , but it is also a great challenge calling us to face the new situation ."]]}
+{"gec_outputs": [["Population ageing deemed to be an achievement when it first happened ."]]}
+{"gec_outputs": [["In the old times , people could easily lose their life due to hunger , disease , government , war or something else ."]]}
+{"gec_outputs": [["After a country was just founded , some immature policy led to nationwide hunger ."]]}
+{"gec_outputs": [["Millions of people could not find food to eat and ended up eating all the trees and grass which could be seen ."]]}
+{"gec_outputs": [["There was everywhere wandering people trying to find food ."]]}
+{"gec_outputs": [["Some people even eat their own dead children ."]]}
+{"gec_outputs": [["There was a saying which says that hunger can turn people back to animals ."]]}
+{"gec_outputs": [["Infectious disease is also a life killer ."]]}
+{"gec_outputs": [["Not long ago SARS , as blurry a memory as it is , attacked people all around the world ."]]}
+{"gec_outputs": [["Since no one knew about this disease before , it spread around the whole world before humans took action ."]]}
+{"gec_outputs": [["The spreading speed was so fast that plenty of people died before knowing about it ."]]}
+{"gec_outputs": [["An atmosphere of death covered the whole world ."]]}
+{"gec_outputs": [["The expression of desperation can be seen everywhere ."]]}
+{"gec_outputs": [["War kills a lot of people , which is not doubted ."]]}
+{"gec_outputs": [["After going through the WW1 and WW2 , the population on the earth got much fewer ."]]}
+{"gec_outputs": [["Because technology was not developed enough or because there were wars and battles one after another , people just did not live a long life ."]]}
+{"gec_outputs": [["Hence , as technology especially in the medical field continues to get developed and updated , people do not risk their lives anymore ."]]}
+{"gec_outputs": [["People are happy to see that they can finally live a long life without sacrificing their blood in battles and with more and more perfect medical insurance ."]]}
+{"gec_outputs": [["The medical equipment and staff are getting more and more today ."]]}
+{"gec_outputs": [["Although some countries in Africa and Southeast Asia still face a lack of medical insurance , the world in all is getting better in this field ."]]}
+{"gec_outputs": [["With modern machines and growing methds , humans do not need to worry about the amount of food anymore ."]]}
+{"gec_outputs": [["All the achievements humans make influence the lifespan of people ."]]}
+{"gec_outputs": [["That is why population ageing can be seen as an achievement ."]]}
+{"gec_outputs": [["Population ageing is not all about the good side of the society though ."]]}
+{"gec_outputs": [["As society develops , people gradually find that population ageing has brought us many problems ."]]}
+{"gec_outputs": [["With more and more people not working at all and receiving an allowance from the government , society 's balance has been broken ."]]}
+{"gec_outputs": [["It is difficult to keep the economy functioning well ."]]}
+{"gec_outputs": [["Times change ; people change ."]]}
+{"gec_outputs": [["Many young people do not view things like their parents used to do ."]]}
+{"gec_outputs": [["Many young people choose not to have kids or have fewer kids than before ."]]}
+{"gec_outputs": [["This problem is very common in developed countries ."]]}
+{"gec_outputs": [["With a more perfect system with the older and more modern equipment , population ageing always comes first ."]]}
+{"gec_outputs": [["The governments are seeking solutions to solve this problem ."]]}
+{"gec_outputs": [["For example , they encourage people to have more children by awarding them ."]]}
+{"gec_outputs": [["They pull up the age to retire ."]]}
+{"gec_outputs": [["No matter what measures they take , population ageing still remains a serious problem and that is where the challenge lies ."]]}
