@@ -1,0 +1,1 @@
+Please put bea.src and bea.tgt to this folder.

@@ -1,0 +1,1 @@
+Please put jfleg.src and jfleg.tgt to this folder.
