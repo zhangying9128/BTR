@@ -21,9 +21,9 @@ cd ..
 ### Install [fairseq](https://github.com/facebookresearch/fairseq/tree/v0.10.0) from out repository
 Please use our modified fairseq.
 ```sh
-cd mpnet_by_microsoft/fairseq/
+cd fairseq/
 pip install --editable .
-cd ../..
+cd ..
 ```
 
 ## Pre-training the BTR
