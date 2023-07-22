@@ -40,9 +40,9 @@ bash commands/preprocess_realnewslike.sh
 ### Pre-training the BTR with Realnewslike dataset
 Before pre-training, please download our [fine-tuned T5GEC]() to the corresponding folders in [checkpoints]() to speed-up pre-training.
 And then use the following command to pre-train the BTR. 
-You need to modify commands "CUDA_VISIBLE_DEVICES" and "--distributed-world-size" according to your environment.
-"Batch size = MAX_TOKENS * UPDATE_FREQ * distributed_world_size".
-Our experiment here used two gpus, therefore we set "--distributed-world-size=2".
+You need to modify commands 'CUDA_VISIBLE_DEVICES' and '--distributed-world-size' according to your environment.
+'Batch size = MAX_TOKENS * UPDATE_FREQ * distributed_world_size'.
+Our experiment here used two gpus, therefore we set '--distributed-world-size=2'.
 ```sh
 SAVE_PATH=checkpoints/pre-trained-BTR/
 mkdir -p $SAVE_PATH
