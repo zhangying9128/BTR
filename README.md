@@ -47,13 +47,12 @@ You need to modify commands `CUDA_VISIBLE_DEVICES` and `--distributed-world-size
 Our experiment here used two gpus, therefore we set `--distributed-world-size=2`.
 ```sh
 SAVE_PATH=checkpoints/pre-trained-BTR/
-mkdir -p $SAVE_PATH
 bash commands/pretrain_BTR.sh
 ```
 
 ## Fine-tuning the BTR
 After getting pre-trained BTR, you can use the following steps to fine-tune it by yourselves.
-Or directly download our [fine-tuned BTR]() to the corresponding folders in [checkpoints](https://github.com/zhangying9128/BTR/tree/main/checkpoints/fine-tuned-BTR).
+Or directly download our fine-tuned BTR to the corresponding folders in [checkpoints](https://github.com/zhangying9128/BTR/tree/main/checkpoints/fine-tuned-BTR).
 As we mentioned in our paper, we run 4 trials with random seeds. You can use the following fined-tuned BTR models to reproduce our results.
 
 |Trial 1| Trial 2|Trial 3|Trial 4|
@@ -61,9 +60,9 @@ As we mentioned in our paper, we run 4 trials with random seeds. You can use the
 [1](https://drive.google.com/file/d/1HN-Tx2lU8XZwQDM2OwE_2bayJE7lGrC-/view?usp=sharing)| [2](https://drive.google.com/file/d/1AUPkvv8Pcvbzs9qdG3uREODAxiGIJb11/view?usp=sharing) | [3](https://drive.google.com/file/d/1ZXmX6g4tL5GAEL44MWgLDNTtouYFEhDs/view?usp=sharing) | [4](https://drive.google.com/file/d/1IXRVFmSOMDa_Z9D2mzZmv_ZCrYRqEsIy/view?usp=sharing) | 
 
 ### Download dataset
-Please follow our [suggestions](https://github.com/zhangying9128/BTR/tree/main/datasets) to download grammatical error correction datasets, and put their corresponding .src and .tgt files to the corresponding folders in [datasets](https://github.com/zhangying9128/BTR/tree/main/datasets).
+Please follow our [suggestions](https://github.com/zhangying9128/BTR/tree/main/datasets) to download grammatical error correction datasets, put their corresponding .src and .tgt files to the corresponding folders in [datasets](https://github.com/zhangying9128/BTR/tree/main/datasets), and follow our steps to process these datasets.
 Or you can download our processed data-bin [clang8-conll13-conll14-t5tokenizer](https://drive.google.com/drive/folders/1c8J9xDGYM5Hkpm5zqQLHltMJiXaBJNNU?usp=sharing) for fine-tuning the BTR.
-Specifically, as we mentioned in our paper, we utilize the cleaned [CoNLL-13](https://github.com/zhangying9128/BTR/blob/main/data/DEV_CoNLL13_cleaned/official-preprocessed-cleanpunc.m2) and [CoNLL-14](https://github.com/zhangying9128/BTR/blob/main/data/TEST_CoNLL14_cleaned/official-2014.cleanpuncsplit.m2) dataset, please check the corresponding m2 files for more details.
+Specifically, as we mentioned in our paper, we also utilized the cleaned version of [CoNLL-13](https://github.com/zhangying9128/BTR/blob/main/data/DEV_CoNLL13_cleaned/official-preprocessed-cleanpunc.m2) and [CoNLL-14](https://github.com/zhangying9128/BTR/blob/main/data/TEST_CoNLL14_cleaned/official-2014.cleanpuncsplit.m2) dataset, please check the corresponding m2 files for more details.
 
 ### Process CoNLL-13 dataset
 Here we give an example of processing CoNLL-13 dataset and constructing a data bin from processed cLang8, CoNLL-13, and CoNLL-14 datasets. 
