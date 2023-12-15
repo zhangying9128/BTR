@@ -18,7 +18,7 @@ pip install --editable .
 cd ..
 ```
 
-### Install [fairseq](https://github.com/facebookresearch/fairseq/tree/v0.10.0) from out repository
+### Install [fairseq](https://github.com/facebookresearch/fairseq/tree/v0.10.0) from our repository
 Please use our modified fairseq.
 ```sh
 cd fairseq/
