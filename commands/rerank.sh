@@ -12,6 +12,5 @@ CUDA_VISIBLE_DEVICES=1 python fairseq/validate.py $DATA_DIR \
     --num-of-candidates 5 \
     --max-tokens-valid 512 \
     --bidirectional-decoder \
-    --bidirectional-shift \
     --test-cand-path data/TEST_CoNLL14/ \
     --log-format simple --log-interval 60 
